@@ -7,7 +7,7 @@ setwd(wd)
 
 #Get the page for all the player banners from the tournament.  Only run this
 #line of code once per session (no need to hammer the server repeatedly.)
-#page <- paste(readLines('http://dobrazupa.org/tournament/0.20/banners.html'),collapse='')
+page <- paste(readLines('http://dobrazupa.org/tournament/0.20/banners.html'),collapse='')
 
 #All 72 categories, to be used for extracting HTML values and also as column
 #names
@@ -167,6 +167,14 @@ for (i in 2:ncol(players)) {
 numer <- max(colCounts)
 #Calculate the column scores for each column
 colScores <- numer/colCounts
+#Create a dataframe of the columns and what they are worth
+colScoresDF <- as.data.frame(colScores)
+colScoresDF$Achievement <- cols
+colScoresDF <- colScoresDF[,c(2,1)]
+names(colScoresDF) <- c("Achievement", "Score")
+
+#Write the achievement scores to a text file
+write.fwf(colScoresDF, file="banner_scores.txt")
 
 #Function to determine the total score for one player in the players dataframe
 getScore <- function(pName) {
@@ -192,10 +200,10 @@ returnChar <- function(inVal){
 
 #Convert the TRUE values to X and the FALSE values to "" so that it looks nicer
 #in a displayed table
-players[,2:73] <- apply(players[,2:73], c(1,2), returnChar)
+players[,2:(ncol(players)-2)] <- apply(players[,2:(ncol(players)-2)], c(1,2), returnChar)
 
 #Put the player name, score, and rank columns at the front
-players <- players[,c(1,74,75,2:73)]
+players <- players[,c(1,(ncol(players)-1),ncol(players),2:(ncol(players)-2))]
 
 #Round the player scores to 3 decimal places
 players$Score <- round(players$Score,3)
