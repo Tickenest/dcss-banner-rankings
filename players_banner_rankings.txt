@@ -1,4 +1,4 @@
-Name Score Rank
+Name 			Score Rank
 kuniqs               4522.358    1
 Lavandula            3261.174    2
 Yermak               2191.257    3

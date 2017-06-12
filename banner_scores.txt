@@ -1,4 +1,4 @@
-Achievement Score
+Achievement 		 Score
 The Explorer I             1.265233
 The Explorer II            3.238532
 The Explorer III          11.535948
