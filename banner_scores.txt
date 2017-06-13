@@ -1,4 +1,4 @@
-Achievement 		 Score
+Achievement 		      Score
 The Explorer I             1.265233
 The Explorer II            3.238532
 The Explorer III          11.535948
@@ -35,9 +35,9 @@ Spiteful III             588.333333
 Speed Demon I              4.848901
 Speed Demon II             5.101156
 Speed Demon III           14.708333
-Nemelex' Choice I          6.303571
-Nemelex' Choice II        12.256944
-Nemelex' Choice III       19.184783
+Nemelex' Choice I          6.348921
+Nemelex' Choice II        12.429577
+Nemelex' Choice III       19.611111
 The Conqueror I            1.068402
 The Conqueror II           3.244485
 The Conqueror III         21.265060

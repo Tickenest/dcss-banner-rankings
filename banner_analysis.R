@@ -83,8 +83,10 @@ for (i in length(cats):1){
         #Get the end of a chunk of text that contains the player's name
         pEnd   <- regexpr("</a>", substr(sText, pStart, nchar(sText)), fixed=TRUE)[1]
         
-        #Now actually extract the player's name from the chunk of text
-        pName  <- substr(sText, pStart+7, pStart+pEnd-2)
+        #Now actually extract the player's name from the chunk of text.
+        #Because a few players use the same name but different capitalizations
+        #on different servers, convert all names to all lowercase.
+        pName  <- tolower(substr(sText, pStart+7, pStart+pEnd-2))
         
         #If the current banner is one of Nemelex' Choice, then we have to do
         #some additional name processing because the player name will also
@@ -124,8 +126,8 @@ for (i in length(cats):1){
             players[nrow(players),2:ncol(players)] <- FALSE
             players[nrow(players),i+1] <- TRUE
         }
-        #Now remove the current player from the HTML text that we'r processing,
-        #then start the loop over with the remaining HTML text.
+        #Now remove the current player from the HTML text that we're processing,
+        #then start the loop over with the remaining HTML text
         sText <- substr(sText, pStart+pEnd, nchar(sText))
     }
 }
@@ -208,8 +210,83 @@ players <- players[,c(1,(ncol(players)-1),ncol(players),2:(ncol(players)-2))]
 #Round the player scores to 3 decimal places
 players$Score <- round(players$Score,3)
 
+#Now download the actual player rankings so that they can be compared to the
+#banner rankings
+scores <- paste(readLines('http://dobrazupa.org/tournament/0.20/all-players.html'),collapse='')
+
+pScoresDF <- data.frame(Name=character(), T.Score=integer(), T.Rank=integer(),
+                        stringsAsFactors=FALSE)
+
+#Now loop through the scores text, pulling out each player's name and their
+#score for the tournament
+while (TRUE) {
+    
+    #Get the start of a chunk of text that contains the player's name
+    lStart <- regexpr("<tr class=", scores, fixed=TRUE)[1]
+    
+    #If "<tr class=" wasn't found in the remaining text, then we're done
+    #processing players
+    if (lStart == -1){break}
+    
+    #Get the end of a chunk of text that contains the player's info
+    lEnd   <- regexpr("</tr>", substr(scores, lStart, nchar(scores)), fixed=TRUE)[1]
+    
+    #Extract the player info line from the HTML
+    lText <- substr(scores, lStart, lStart+lEnd)
+    
+    #Hold on to the number of characters to advance after we process the
+    #current player
+    advance <- lStart+lEnd
+    
+    #Find the first number, which will be the player's rank
+    pRankStart <- regexpr('<td class="numeric">', lText, fixed=TRUE)[1]
+    
+    #Find the end of the score
+    pRankEnd <- regexpr("</td>", lText, fixed=TRUE)[1]
+    
+    #Now extract the actual score
+    pRank <- as.integer(substr(lText, pRankStart+20, pRankEnd-1))
+    
+    #Get the start of a chunk of text that contains the player's name
+    pStart <- regexpr(".html", lText, fixed=TRUE)[1]
+    
+    #Get the end of a chunk of text that contains the player's name
+    pEnd   <- regexpr("</a>", substr(lText, pStart, nchar(lText)), fixed=TRUE)[1]
+    
+    #Now actually extract the player's name from the chunk of text.
+    #Because a few players use the same name but different capitalizations
+    #on different servers, convert all names to all lowercase.
+    pName  <- tolower(substr(lText, pStart+7, pStart+pEnd-2))
+    
+    #Now pare down lText to include only the text after the player's name
+    lText <- substr(lText, pStart+pEnd+2, nchar(lText))
+    
+    #Now find the first number after the player's name
+    pScoreStart <- regexpr('<td class="numeric">', lText, fixed=TRUE)[1]
+    
+    #Find the end of the score
+    pScoreEnd <- regexpr("</td>", substr(lText, pScoreStart, nchar(lText)), fixed=TRUE)[1]
+    
+    #Now extract the actual score
+    pScore <- as.integer(substr(lText, pScoreStart+20, pScoreStart+pScoreEnd-2))
+    
+    #Now remove the current player from the HTML text that we're processing,
+    #then start the loop over with the remaining HTML text.
+    scores <- substr(scores, advance, nchar(scores))
+    
+    #Now add the current player and score to pScoresDF
+    pScoresDF[nrow(pScoresDF)+1, c(1,2,3)] <- list(pName, pScore, pRank)
+}
+
+#Join the players dataframe to the pScoresDF dataframe, discarding any players
+#in pScoresDF who aren't in players
+players <- merge(players, pScoresDF, all.x=TRUE)
+
+#Now reorder the players dataframe by banner rank
+players <- players[order(players$Rank),]
+
 #Write the final output table, both ranking info and all the banner info
-write.fwf(players[,c(1,2,3)], file="players_banner_rankings.txt")
+write.fwf(players[,c(1,2,3,ncol(players)-1,ncol(players))], file="players_banner_rankings.txt")
 write.csv(players, "players_banner_rankings.csv", row.names=FALSE)
 #write.csv(players, file="clipboard-16384", row.names=FALSE)
 

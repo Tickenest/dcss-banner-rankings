@@ -1,2185 +1,2158 @@
-Name 			Score Rank
-kuniqs               4522.358    1
-Lavandula            3261.174    2
-Yermak               2191.257    3
-Lemonizer            1434.002    4
-herpmino             1227.704    5
-Rocknlol             1054.209    6
-Spacey               1004.291    7
-inmateoo             1002.332    8
-Snack                 922.704    9
-WalkerBoh             773.213   10
-Angani                768.794   11
-asonge                754.719   12
-4thArraOfDagon        741.086   13
-murphy                697.987   14
-Kenran                695.623   15
-MorganLeah            651.997   16
-stickyfingers         634.329   17
-Manman                627.306   18
-ParticlePhysics       606.861   19
-beargit               604.149   20
-rkdn42                594.017   21
-EnterQ                579.824   22
-cobra                 565.251   23
-shummie               550.130   24
-qw                    538.821   25
-YTcomUltraviolent4    481.034   26
-thatJJthatGod         471.557   27
-koboldina             466.975   28
-hexaflexagon          432.633   29
-Hellonello            430.102   30
-VeronicaDemononica    428.869   31
-ggul001               410.007   32
-tlatlagkaus           404.185   33
-Demise                394.755   34
-bluepin               384.997   35
-Raine357              384.564   36
-minmay                359.729   37
-nikheizen             358.714   38
-edgefigaro            355.748   39
-mopl                  352.668   40
-Tegga21               348.523   41
-tself55               342.428   42
-Gerad                 336.347   43
-toastedzergling       334.825   44
-won                   330.848   45
-Sphara                330.010   46
-Lochraine             327.887   47
-PeteStorm             321.656   48
-MDvedh                312.156   49
-Floodkiller           311.462   50
-JLipinski             311.414   51
-Gravenous             310.783   52
-Dowan                 309.414   53
-armaa                 307.896   54
-mbj2                  305.999   55
-araganzar             302.457   56
-100P                  302.260   57
-gameguard             299.142   58
-sleeves               295.499   59
-Tasonir               290.130   60
-Sharkman1231          290.120   61
-magipi                284.189   62
-Jannitor              279.460   63
-jeanjacques           273.858   64
-exolun                271.500   65
-rubinko               268.036   66
-heteroy               258.542   67
-devlanmud             256.434   68
-Placid                250.975   69
-lakren                247.839   70
-hyperimplojin         244.260   71
-Vajrapani             242.785   72
-Langoroth             241.570   73
-DEFE                  239.563   74
-glosham               238.272   75
-Shard1697             231.963   76
-hihot                 231.600   77
-mibe                  230.123   78
-pleonasm              224.373   79
-Doesnt                222.840   80
-alcopop               219.356   81
-caco                  218.604   82
-cerealjynx            215.919   83
-palyth                209.445   84
-rchandra              207.044   85
-Artagas               202.189   86
-Ge0ff                 201.925   87
-Faldahar              200.212   88
-zlionsfan             198.863   89
-kfa408                198.620   90
-NorthaanB             196.814   91
-Danakh                196.800   92
-fazisi                196.071   93
-GordonOverkill        195.808   94
-kevinyang101          195.108   95
-HungrySpirit          194.735   96
-Konstantin            192.360   97
-Gorglomux             191.052   98
-kml1283               189.144   99
-Assbag                189.091  100
-VanVeen               187.474  101
-dying5ever            187.106  102
-melvina               185.417  103
-penus                 184.969  104
-ducks72               183.997  105
-ragingrage            182.707  106
-fantismo              181.060  107
-melvinkitnick         179.422  108
-Crut                  178.191  109
-Sporophyte            177.344  110
-Likado                176.396  111
-radinms               176.049  112
-zkyp                  174.800  113
-AlStar                171.394  114
-Beholder179           170.566  115
-Baz                   170.318  116
-platinum              169.854  117
-Dominolapin           169.667  118
-cliffracer            168.313  119
-Liimbo                167.326  120
-Dynast                167.168  121
-loopi                 166.506  122
-puimuR                166.038  123
-Chobophobe            163.799  124
-Shadowablaze          161.846  125
-FlamingLnfernal       161.121  126
-epdtry                161.007  127
-case                  160.175  128
-Volgon99              159.747  129
-nkym                  159.408  130
-TheNoid               159.211  131
-glaas                 159.117  132
-fearitself            155.996  133
-esper6                155.975  134
-hyperlasty            155.709  135
-Rubinko               154.368  136
-rwhughston            152.370  137
-sage1234              152.321  138
-holmedog              151.956  139
-Hieropants            151.018  140
-PeterMcNeter          150.976  141
-rast                  148.684  142
-KlownO                146.647  143
-SillyWilly            145.442  144
-jjjjhere              144.997  145
-gammafunk             143.756  146
-Turgon                143.738  147
-bookman               143.107  148
-Axe                   140.521  149
-grindst0ne            138.672  150
-Thalamas              136.437  151
-RKaid                 135.241  152
-Hosung                133.478  153
-wormsofcant           132.984  154
-Izverg                132.954  155
-Tickenest             132.636  156
-CaptBlasto            132.386  157
-LegendaryFerret       131.819  158
-Whaleporn             129.234  159
-TheDarkStar           129.213  160
-Zwobot                127.111  161
-MrPlanck              125.677  162
-SlowGraham            125.557  163
-Monsterracer          124.438  164
-LAEvanesce            124.302  165
-maxonian              123.398  166
-Datul                 122.459  167
-xgamer67              121.613  168
-coolio                120.893  169
-Rrauwl                117.517  170
-Misericorde           117.345  171
-Laraso                115.945  172
-manman                115.180  173
-removed               113.094  174
-Malacante             112.972  175
-mrks                  112.603  176
-ziggurnaut            111.292  177
-MrChinwatt            110.753  178
-Metalogical           110.723  179
-tcjsavannah           110.676  180
-ksagri                110.413  181
-jenzors               110.357  182
-prongedramen          110.335  183
-GoodDemon3            110.010  184
-badtown               109.485  185
-dialectric            109.282  186
-KoreanRuneSaw         108.413  187
-helmschank            106.473  188
-newuser               104.001  189
-Leszczynek            103.806  190
-ungratefuldead        103.385  191
-Nicocat               103.383  192
-cerepol               102.642  193
-cephied0              102.478  194
-rodrick               102.129  195
-yom                   101.564  196
-emikaela              101.061  197
-donomii               100.832  198
-Beargit               100.713  199
-salade2fruit          100.640  200
-SunTroll               99.950  201
-prohare                99.860  202
-Huckle                 99.458  203
-dpayne                 99.403  204
-adibis                 99.024  205
-lepidopteraptor        98.951  206
-Rebelfire              98.910  207
-Dri                    98.618  208
-gramm                  98.311  209
-NicuTudor              97.553  210
-ThreeInvisibleDucks    97.198  211
-Vomitron               97.109  212
-merphle                97.010  213
-Fv001                  96.651  214
-LostNumber             96.616  215
-ThereIsNoGod           96.150  216
-tigertrap              95.669  217
-FireFart               95.648  218
-KiT                    95.125  219
-zhorgal                94.847  220
-Yore                   94.184  221
-Findor                 93.896  222
-Pekkekk                93.882  223
-LogicNinja             93.704  224
-Odds                   93.361  225
-zackoid                93.114  226
-Strat                  92.721  227
-willcat                92.624  228
-ProzacElf              91.852  229
-mpkinton               91.596  230
-Rhandor                91.537  231
-mdonais                91.325  232
-dvd                    90.715  233
-raoeoiku               90.574  234
-Akrius                 90.450  235
-Hisar                  90.358  236
-astronautguy           90.245  237
-Sapher                 90.164  238
-murtidash              89.751  239
-UncommonGray           89.478  240
-GnoME                  89.407  241
-FoghornLeghorn         89.400  242
-viktor                 88.855  243
-ranchugoldfish         88.774  244
-Malchor                88.377  245
-Nebukadnezar           87.917  246
-NormalPerson7          86.622  247
-soberaf                86.232  248
-ddubois                85.433  249
-jaqwonthechef          85.132  250
-itsmu                  84.395  251
-rjrrt                  83.544  252
-Unprepared             83.487  253
-asdu                   83.434  254
-ssalbiz                83.159  255
-Xavori                 83.079  256
-Caerwyn                82.763  257
-Chrysalis              81.403  258
-chakani                81.224  259
-buddhastalin           81.140  260
-Mandevil               80.861  261
-filthy                 80.403  262
-BubbleThief            80.297  263
-svendre                80.165  264
-KurzedMetal            79.705  265
-demiskeleton           79.043  266
-DogShitOnMyToe         78.991  267
-tempest                78.951  268
-abysmalminton          78.891  269
-bogleg                 78.231  270
-Jaryn25                76.798  271
-Chish                  76.234  272
-jerkstore              76.115  273
-escy                   76.026  274
-Rikonman               75.913  275
-BobbyCarnage           75.653  276
-LostInTranslocation    75.397  277
-Ranzir                 74.883  278
-RighteousDevil         74.871  279
-MTVSty1e               74.635  280
-Silenth                74.130  281
-NinetaledFox           73.257  282
-Vactor                 73.166  283
-sargx                  73.086  284
-rexbael                72.880  285
-jorn                   72.862  286
-RepHenryClay           72.842  287
-mungchungdo            72.665  288
-eveningcorners         72.661  289
-antigravityiii         72.585  290
-Undo                   72.397  291
-Reykjavikian           71.930  292
-Vojta                  71.608  293
-supernewton            71.259  294
-Chiseanne              71.182  295
-kaostheory             71.006  296
-Sedgwick               71.006  297
-Bromont                70.304  298
-Shadowmage952          70.100  299
-downpour               70.043  300
-grandjackal            70.030  301
-deadleaves             69.096  302
-demenzo                69.023  303
-cerulescent            68.980  304
-samog                  68.782  305
-frostgod               68.768  306
-Xurdan                 68.733  307
-Kaltchre               68.501  308
-Farquar                68.407  309
-Shador                 68.171  310
-DoomLord               67.957  311
-Kautzman               67.855  312
-raetorn                67.639  313
-Bronet                 67.421  314
-kazak                  67.258  315
-Timinator              66.972  316
-Glagha                 66.965  317
-Unholydonuts           66.851  318
-Beldrama               66.648  319
-Oozefury               66.259  320
-Cimanyd                66.183  321
-Welfe                  65.958  322
-dilpil                 65.699  323
-SirKenneth             65.434  324
-CryingNoob             65.312  325
-tv1990                 64.676  326
-Aalglatt               64.580  327
-hittemv20vhard         64.386  328
-enarc13                64.216  329
-dxctxrx                63.624  330
-Nattefrost             63.601  331
-jotwebe                63.487  332
-Realz                  63.265  333
-Parsimony              62.891  334
-advil                  62.795  335
-Fenrisulfr             62.646  336
-Nich                   62.293  337
-tosi1                  62.214  338
-amgard                 61.845  339
-plussizemalemodel      61.642  340
-EriktheRed             61.557  341
-Splatt                 61.471  342
-Shimatora              61.291  343
-Sin92                  61.128  344
-Ganima                 60.661  345
-SomeoneAwful           60.393  346
-cigotuvi               60.206  347
-moogleknight           60.006  348
-CabbageHands           59.289  349
-Findleman              59.289  350
-DarkTechnomancer       58.983  351
-dillytodds             58.971  352
-inqbanana              58.900  353
-Heartnet               58.218  354
-lilbthebasedgod        57.908  355
-wyzack                 57.682  356
-coldbreeze             57.543  357
-stillpimpin            57.036  358
-Fingolfin              57.032  359
-Lino                   56.991  360
-mmcf                   56.593  361
-djent                  56.534  362
-apoch                  56.500  363
-Nelagend               56.366  364
-blackbelt              56.316  365
-YT                     56.244  366
-Zooty                  56.243  367
-pooshlmer              56.020  368
-BeardTony              55.887  369
-TittyCrusher           55.816  370
-w00t                   55.788  371
-vigga                  55.748  372
-mumawa                 55.735  373
-danielguo94            55.234  374
-Berder                 55.210  375
-quikTournament         54.771  376
-Bwijn                  54.590  377
-Karagy                 54.572  378
-hatguy                 54.537  379
-TwoGrow                54.299  380
-clockworksoul          54.255  381
-tijit                  54.232  382
-frogsaron              54.172  383
-modargo                54.130  384
-tsouns                 54.123  385
-cba                    54.023  386
-pedant                 54.014  387
-suddenbreakfast        53.993  388
-wait                   53.937  389
-tsuxds                 53.452  390
-flt                    53.304  391
-edsrzf                 53.255  392
-Misha                  52.678  393
-mordus                 52.595  394
-BarneyGumball          52.551  395
-howech                 52.533  396
-Inde                   52.518  397
-scisormetimb3rs        52.277  398
-Darksilverin           52.112  399
-happysmile16           51.803  400
-Stoats                 51.446  401
-gracq                  51.347  402
-Cerepol                51.339  403
-OffsetSiren            50.999  404
-fanggot                50.926  405
-rageheart7             50.436  406
-brainstorm             50.417  407
-no0bjke                50.412  408
-Skeral                 50.265  409
-shinino                50.072  410
-odiv                   49.880  411
-Warped                 49.782  412
-SharpCheddar           49.715  413
-InternetKraken         49.576  414
-cheese                 49.377  415
-mathmaestro            49.316  416
-DeKRuS                 49.285  417
-kickascii              49.264  418
-randumb                49.091  419
-lysistrata             49.047  420
-fatvalkilmer           49.017  421
-sreda                  48.588  422
-Ijustatesigmund        48.527  423
-Jackthecabe            48.351  424
-shpingle               47.906  425
-SailorBob              47.901  426
-2d6                    47.817  427
-psywombats             47.799  428
-p15712                 47.755  429
-sambo                  47.724  430
-sorlin                 47.703  431
-Triskal                47.659  432
-insane59               47.550  433
-ldierk                 47.379  434
-atomicknyte            47.319  435
-acwest                 47.279  436
-Haldmier               47.279  437
-papilio                47.240  438
-DrakieV                47.026  439
-irqconflict            46.909  440
-Caiaphas               46.527  441
-ObadiahtheSlim         46.522  442
-Inept                  46.469  443
-raiza                  46.466  444
-fooot                  46.347  445
-DMNSN                  46.195  446
-Feta                   46.154  447
-PoisonMushroom         46.017  448
-loser178               45.639  449
-Kiel97                 45.590  450
-Wobbu                  45.452  451
-Ferkelamun             45.443  452
-chillblain             45.348  453
-busta                  45.292  454
-moohaus                45.259  455
-bazoo                  45.239  456
-neongrey               45.174  457
-Trogdor666             45.162  458
-elan                   44.982  459
-IjonTichy1             44.898  460
-CosmicAfro             44.836  461
-Lexie                  44.753  462
-Eptagon                44.500  463
-growf                  44.463  464
-Aelig                  44.431  465
-puppykicker            44.341  466
-JeffiDaFish            44.304  467
-mike2R                 44.228  468
-Letos                  44.063  469
-Canard                 44.024  470
-frogmouthbird          43.912  471
-salix                  43.724  472
-sleevener              43.628  473
-Zrachosh               43.344  474
-kidcy                  43.188  475
-DemiseSR               43.126  476
-Chifra                 42.787  477
-ehwuts                 42.607  478
-tizzy                  42.574  479
-skilld14               42.558  480
-SlimeRobin             42.539  481
-Phaedo                 42.524  482
-grimtooth              42.484  483
-PlasticAutomaton       42.373  484
-b56                    42.300  485
-chukamok               42.284  486
-Angmar                 42.084  487
-ac13                   41.856  488
-IksarHS                41.789  489
-cyborgemu              41.754  490
-shibe                  41.694  491
-Mandoo                 41.690  492
-ultrashaft             41.591  493
-Thaddeus               41.523  494
-Squip                  41.439  495
-Wark                   41.412  496
-c0l                    41.326  497
-candlesan              41.235  498
-sergedm                41.111  499
-MatthieuS              40.972  500
-syranez                40.930  501
-Cral                   40.920  502
-gedrah                 40.816  503
-Yhamm                  40.738  504
-lightheart             40.682  505
-Yurtisuma              40.634  506
-Gridlocked             40.347  507
-asdasd2                40.340  508
-Setanta                39.830  509
-Deemzul                39.826  510
-sirrick                39.811  511
-DevlanMud              39.809  512
-Vinniefish             39.457  513
-Conniption             39.390  514
-suomimenusko           39.387  515
-lukano                 39.234  516
-spaghetti              39.219  517
-lepermessiah           39.125  518
-brahma                 39.123  519
-loom                   39.055  520
-SomeFlowers            38.987  521
-geewiz                 38.884  522
-lazycnw                38.693  523
-tryptr                 38.666  524
-Acetwo5                38.661  525
-Medar                  38.657  526
-feelmyfire             38.639  527
-sasquatch              38.521  528
-dragonlass             38.512  529
-Ryco                   38.470  530
-Guenter                38.306  531
-SetecAstronomy         38.285  532
-leobuilt               38.198  533
-Dipster                38.144  534
-Exaltedone87           38.110  535
-agentchuck             38.098  536
-arivia                 37.997  537
-drewskiskiski          37.708  538
-Spurious               37.679  539
-Laan                   37.634  540
-Kriby                  37.531  541
-siprus                 37.521  542
-CardTrick              37.518  543
-Nothus                 37.513  544
-usscaptain             37.476  545
-LokiBrotherOfThor      37.442  546
-shitimlost             37.228  547
-estick                 36.996  548
-patheticliltramp       36.796  549
-Queshclam              36.769  550
-dricus                 36.757  551
-corehhhhh              36.452  552
-Febz                   36.304  553
-cybersaint2k           36.240  554
-LordSloth              36.231  555
-GrooTheWanderer        36.189  556
-fakerfangirl           35.998  557
-darkestones            35.988  558
-Chago123               35.862  559
-clweeks                35.724  560
-DreamGalloper          35.505  561
-agooddog               35.474  562
-azarias                35.471  563
-SevenSeeds             35.451  564
-FrostedMuffins         35.309  565
-Lightli                35.157  566
-skittles               35.156  567
-Numknucks              35.105  568
-lunkers                35.049  569
-MrLimpet               34.941  570
-mitch45678             34.884  571
-dobroeutro             34.560  572
-ChaseSP                34.355  573
-eld                    34.086  574
-aithe4ngel             34.032  575
-OutrageousFun          34.022  576
-Exporg                 33.999  577
-Feirund                33.788  578
-George                 33.703  579
-Drakenburg             33.648  580
-humperndinck           33.594  581
-DocJ                   33.591  582
-Morgon                 33.373  583
-functor                33.362  584
-linjason               33.349  585
-Juudaz                 33.328  586
-agricola               33.271  587
-Valmet                 33.226  588
-Banquo                 33.174  589
-MirrMurr               33.094  590
-snowy                  33.071  591
-joy1999                32.875  592
-Bananafish1988         32.821  593
-kewadin                32.810  594
-Mrebitz                32.810  594
-Silurio                32.795  596
-Cruella                32.787  597
-Gobbopathe             32.701  598
-ojw                    32.604  599
-Cryogen                32.527  600
-Almacia                32.505  601
-frobop                 32.497  602
-dpeg                   32.438  603
-krigyl                 32.340  604
-hungryneko             32.161  605
-Scuka                  32.147  606
-Nagnazul               32.126  607
-DeadlyKitten           32.018  608
-Kosschaser             31.895  609
-ksh1040                31.828  610
-ZombieSheep            31.758  611
-theodb                 31.729  612
-Rocke                  31.582  613
-mandarbmax             31.568  614
-maxxx                  31.474  615
-Kazimir                31.451  616
-gressup                31.292  617
-SevenDeadlySins        31.236  618
-Schimscham             31.235  619
-HUIXAX                 31.134  620
-ArcMage                31.100  621
-Collect0em0all         31.016  622
-Voodoofly              30.967  623
-BlindSquirrel          30.923  624
-gosunero               30.872  625
-Hasart                 30.825  626
-edilaic                30.754  627
-josefromcouch          30.698  628
-Elbereth               30.691  629
-nightstar              30.676  630
-Jerry                  30.656  631
-Shinoi                 30.565  632
-Nightblair             30.464  633
-Soyweiser              30.185  634
-Voxish                 30.156  635
-AlphabetPasta          30.126  636
-Deathclocker           30.100  637
-Anduranha01            30.020  638
-CrazyArbalest          29.971  639
-howlingfantods         29.805  640
-christhawk             29.757  641
-Gorice                 29.691  642
-Urami                  29.670  643
-freeshrugs             29.363  644
-Csikos                 29.355  645
-PBDoughboyy            29.254  646
-Moanerette             29.236  647
-Fairytaker             29.231  648
-dodododo               29.211  649
-jmsaunde               29.172  650
-malcoda                29.127  651
-toffzen                29.116  652
-Skryme                 28.995  653
-McKennaii              28.993  654
-Arivia                 28.976  655
-possum                 28.975  656
-Crom                   28.963  657
-rogsnak                28.947  658
-GrayFlower             28.851  659
-shitmemes              28.821  660
-Mansion                28.793  661
-StylePro               28.772  662
-oshikia                28.644  663
-Congressman            28.558  664
-sadgrasan              28.499  665
-bftschaos              28.494  666
-RoundRobin             28.254  667
-DwarfAlpaca            28.188  668
-Miserium               28.059  669
-flameaway              28.005  670
-lastplaneout           27.802  671
-emsyzz                 27.776  672
-Jarlyk2                27.754  673
-Gamesmaster            27.640  674
-xash                   27.640  674
-BardHarp               27.594  676
-Gorgondantess          27.572  677
-Jynri                  27.565  678
-ventricule             27.493  679
-Serafim                27.414  680
-Chuggz                 27.368  681
-abeheron               27.345  682
-Naow                   27.269  683
-poiuyt0418             27.208  684
-uglyjohn               27.142  685
-sugary                 27.119  686
-Ruich                  27.045  687
-Fireseal               26.953  688
-Salasann               26.939  689
-soaksdml               26.921  690
-jiveturtle             26.916  691
-TuffENuff              26.858  692
-Terandir               26.799  693
-WalesRoam              26.694  694
-Plasmo                 26.675  695
-Eucla                  26.610  696
-experimilk             26.188  697
-wulfric                26.119  698
-Toogi                  26.111  699
-darksquall             26.097  700
-buskinjo               26.065  701
-Darkell                25.959  702
-bbangbbangyee          25.952  703
-Hell                   25.941  704
-cmballin               25.937  705
-lordive                25.819  706
-rjaguar3               25.748  707
-isthmus                25.665  708
-hyperbowl              25.662  709
-Vizrt                  25.559  710
-Terrapin               25.529  711
-ZiBuDo                 25.529  711
-Molotove               25.482  713
-Hikthur                25.477  714
-MuffinSoup             25.354  715
-Bellerephron           25.281  716
-blal                   25.251  717
-crimson                25.172  718
-soulstone              25.171  719
-suboptimal             25.161  720
-bobbycarnage           25.127  721
-odri                   25.126  722
-minicreteconcrete      25.102  723
-AverageBear            24.959  724
-Deirdre                24.820  725
-CanadianGator          24.802  726
-hiramatsu11            24.776  727
-MadAsgardian           24.768  728
-dornbeast              24.757  729
-jdpr                   24.750  730
-willhelm               24.647  731
-Brutalitops            24.598  732
-boben                  24.585  733
-Wolfechu               24.552  734
-anfisbena              24.536  735
-kaze                   24.518  736
-Fhqwhgads              24.512  737
-PowerPlayer            24.467  738
-papajoes               24.439  739
-vkvd                   24.296  740
-Dootley                24.185  741
-flammie80              24.170  742
-confessionsofamasc     24.150  743
-Dirian                 24.027  744
-InabaYap               23.977  745
-puppy                  23.892  746
-CountDeLaPain          23.759  747
-Xelif                  23.759  747
-Lightveil              23.713  749
-kavron                 23.641  750
-shobalk                23.631  751
-porpoise               23.600  752
-tyvekgp                23.577  753
-Inchmeat               23.494  754
-UnbalancedOne          23.469  755
-EyeSore                23.374  756
-s1rlancerlott          23.353  757
-bearx12000             23.273  758
-Enish                  23.247  759
-SpeedrunTech           23.115  760
-horvathsaigyou         22.986  761
-Croanthos              22.824  762
-dolemite99             22.607  763
-Abraxos                22.542  764
-Cab                    22.458  765
-stubblyhead            22.434  766
-HANFGEIST              22.422  767
-SCglazed               22.412  768
-Esekla                 22.398  769
-shmesh                 22.312  770
-aeo                    22.282  771
-Quico                  22.249  772
-nem                    22.236  773
-Mesmaeker13            22.223  774
-Shayle                 22.187  775
-qalnor                 22.181  776
-korgen                 22.164  777
-nicksoapdish           22.050  778
-enigmoo                21.943  779
-subsume                21.893  780
-nano                   21.866  781
-realjohncenaofficial   21.864  782
-Firebatgyro            21.849  783
-Otterlegs              21.806  784
-comborobin             21.679  785
-anklez                 21.669  786
-prospero               21.605  787
-Tnyglim                21.587  788
-Aolhelm                21.566  789
-Luthiena               21.552  790
-TheElusiveTrout        21.546  791
-clumber                21.509  792
-cfbundy                21.496  793
-tboon                  21.494  794
-axrath                 21.434  795
-Nilsyn                 21.414  796
-kazastankas            21.382  797
-pedritolo              21.316  798
-acluon                 21.259  799
-rutigerpupkin          21.259  799
-dscm                   21.259  801
-ruthinator             21.222  802
-Sicily                 21.187  803
-Firecrotchwizard       21.158  804
-MTDW                   21.158  804
-lunatic                21.128  806
-Omndra                 21.069  807
-ck1fx                  21.067  808
-Llamajah               21.057  809
-MrDeSaussure           21.055  810
-Bob                    21.027  811
-Karia                  21.003  812
-cwapface               20.913  813
-valhalheru             20.867  814
-gerblederp             20.851  815
-Kingkept               20.851  815
-mtlnx                  20.800  817
-BillboardBarry         20.750  818
-daryashkoh             20.676  819
-CALLOUS                20.552  820
-LoserDude              20.529  821
-SedStubbie             20.490  822
-Raukatau               20.458  823
-xnavy                  20.399  824
-PeterLawrence          20.369  825
-w0kki                  20.276  826
-Hushed                 20.239  827
-Temi                   20.134  828
-nikopol                20.096  829
-AntiSprigganMachine    20.010  830
-rgaf                   19.946  831
-Flooderbenga           19.925  832
-tigercub               19.908  833
-Zombiesheep            19.851  834
-Bargorn                19.828  835
-greprep                19.828  835
-OneEyedJack            19.828  835
-ggurman                19.808  838
-bed                    19.756  839
-aturtledoesbite        19.693  840
-Gottschkopf            19.689  841
-EminenceFront          19.601  842
-Zalenia                19.595  843
-Sarmenti               19.579  844
-WilsonTG               19.507  845
-guppyfry               19.374  846
-braks                  19.358  847
-Justin123              19.351  848
-Docmaja                19.338  849
-Inus                   19.313  850
-jejorda2               19.279  851
-DenpaOtoko             19.268  852
-westonodom             19.250  853
-DizzySkin              19.233  854
-grisnicke              19.153  855
-osteo                  19.112  856
-fly                    19.105  857
-Zalanthas              19.105  857
-tensugalgo             19.098  859
-greynaab               19.064  860
-Kalaber                19.064  860
-Kave                   19.003  862
-herbaltea              18.977  863
-UnlimitedFusion        18.888  864
-ereinion               18.861  865
-stringdemon            18.752  866
-BrandorKP              18.587  867
-Foxfire                18.580  868
-Majestic               18.568  869
-Spinaci                18.561  870
-taqueso                18.513  871
-Geoffrax               18.502  872
-Glass                  18.460  873
-Malificent             18.429  874
-skeral                 18.397  875
-BluePsion              18.382  876
-Hornsilk               18.374  877
-MrDNA                  18.368  878
-Silverhawk             18.368  878
-Elenore                18.351  880
-nocturnal              18.281  881
-marsu                  18.121  882
-heinrich               18.115  883
-Rakdos                 18.115  883
-ReniFell               18.099  885
-azrac                  18.075  886
-tiddo                  18.037  887
-Rekenzichi             18.020  888
-spsoon                 18.020  888
-spaige                 17.897  890
-Senkrad                17.895  891
-Goraeman               17.865  892
-jtron                  17.793  893
-Iwugu                  17.770  894
-Demosthentine          17.633  895
-Arcvasti               17.558  896
-razzle                 17.520  897
-cosmonaut              17.494  898
-Nr616                  17.463  899
-tre                    17.463  899
-Tollymain              17.459  901
-Cerrus                 17.425  902
-hergaster              17.391  903
-baldghoti              17.360  904
-kinenseiburu           17.350  905
-serber55               17.334  906
-Manul                  17.304  907
-Reinor                 17.304  907
-sirboomalot            17.293  909
-THUG4L1F3              17.289  910
-bonger                 17.251  911
-dylex                  17.166  912
-factorialite           17.156  913
-tolb                   17.101  914
-GavinH                 17.040  915
-IbnAlYakub             16.976  916
-TheOldMan              16.945  917
-CalmDownMonkey         16.849  918
-Tridux                 16.834  919
-DasRunzen              16.818  920
-HunfridMar             16.813  921
-astaringelf            16.808  922
-morra                  16.808  922
-smajdalf               16.741  924
-Evanescent             16.699  925
-DarkabusHale           16.692  926
-dorian                 16.653  927
-WalrusKing             16.504  928
-mora                   16.498  929
-copingsaw              16.464  930
-FearTheChris           16.463  931
-Neil                   16.433  932
-christiangoth          16.426  933
-kalagan                16.426  934
-Arglure                16.403  935
-galech                 16.362  936
-puffin                 16.362  936
-McMoop                 16.331  938
-Iodinin                16.324  939
-violetgray             16.308  940
-ciphuk                 16.267  941
-pooooooops             16.267  941
-tecani                 16.255  943
-Quazifuji              16.252  944
-Apogee                 16.213  945
-morbho                 16.213  945
-manyhoops              16.203  947
-personjerry            16.158  948
-NoAnimeNoLife          16.157  949
-leeig                  16.151  950
-Sekko                  16.112  951
-philosophygeek         16.112  952
-freekh                 16.086  953
-rbl                    16.046  954
-KellsAgain             16.040  955
-Nordron                16.040  955
-Peloso                 16.040  955
-tlilden                16.040  955
-PissLord               16.021  959
-OTabTabTab             15.957  960
-mcbry                  15.926  961
-Frenchkiss             15.919  962
-kimtruck               15.919  962
-mg7810                 15.919  962
-nonofthatk             15.919  962
-ghjk                   15.880  966
-theElss                15.862  967
-andrew                 15.843  968
-quinnr                 15.818  969
-Jeeveli                15.783  970
-WigglingFerns          15.748  971
-dplusplus              15.710  972
-MyelinatedAxon         15.709  973
-crazyape14             15.597  974
-Sagrath01              15.555  975
-Nevereven              15.551  976
-BigJilm                15.500  977
-sour                   15.500  977
-Bel                    15.480  979
-rainwizard             15.442  980
-triglyceri             15.356  981
-johnstein              15.348  982
-staplegun              15.341  983
-TwoFelines             15.341  984
-trckry                 15.334  985
-Gitz                   15.325  986
-deathblob              15.324  987
-horko                  15.292  988
-vatarom                15.258  989
-henryci                15.227  990
-tkappleton             15.227  990
-apparatus              15.132  992
-heybub                 15.121  993
-quixotic               15.102  994
-TeeNaku                15.086  995
-GetYeFlask             15.082  996
-rocknlol               15.079  997
-MasterGouda            15.001  998
-wyrdjoy                14.980  999
-doot                   14.940 1000
-Inarius                14.900 1001
-BirdoPrey              14.885 1002
-b00bs                  14.852 1003
-regis                  14.845 1004
-slitherrr              14.845 1004
-gamgams                14.806 1006
-playitleo              14.784 1007
-zureal                 14.784 1007
-matticus               14.745 1009
-barbarian              14.727 1010
-deifeln                14.727 1010
-freej                  14.727 1010
-Oak69                  14.727 1010
-vuolankoinen           14.727 1010
-EvilAshe               14.689 1015
-JerBear56              14.650 1016
-NormanTheIntern        14.618 1017
-Raiza                  14.618 1018
-Ekaitz                 14.571 1019
-Glaeka                 14.516 1020
-ksh                    14.454 1021
-Chaositek              14.405 1022
-StormFighter           14.405 1022
-destino                14.398 1024
-Stiamna                14.398 1024
-therapyman             14.398 1024
-wewlad1                14.398 1024
-elekro                 14.387 1028
-wafflepants            14.359 1029
-rustyjosh              14.281 1030
-UpsideDownChuck        14.268 1031
-Melum                  14.253 1032
-DaveKosher             14.250 1033
-Nicoed                 14.243 1034
-AbsoluteZero           14.194 1035
-Plazmod                14.194 1036
-rosewoodpip            14.173 1037
-Winchcombe             14.158 1038
-qandnotyew             14.132 1039
-xtyrian                14.127 1040
-Jmtistic               14.113 1041
-komi                   14.113 1041
-Phindah                14.113 1041
-kws583                 14.011 1044
-Larett                 14.011 1044
-p1v0                   14.011 1044
-TheOneDM               14.011 1044
-tuppins                14.011 1044
-dyzzy                  13.972 1049
-Kite                   13.972 1049
-mewnfare               13.968 1051
-pichaelthompson        13.962 1052
-Gurmil                 13.925 1053
-HawkPuma               13.916 1054
-bluemoon               13.845 1055
-stabbytabby            13.822 1056
-eXcel                  13.802 1057
-Omosh                  13.802 1057
-luab                   13.761 1059
-Zdeegee                13.681 1060
-zeros                  13.674 1061
-Cynicus                13.652 1062
-IsvaffelMax            13.651 1063
-crawlian               13.636 1064
-consideredahorse       13.588 1065
-tobeofuse              13.587 1066
-Nino                   13.560 1067
-PatrickH               13.516 1068
-qalnor2                13.515 1069
-Minion                 13.405 1070
-vale                   13.384 1071
-face                   13.305 1072
-billohreally           13.227 1073
-crazymagnet            13.205 1074
-Buffagor               13.188 1075
-haifisch               13.090 1076
-Mukku                  13.038 1077
-sparkswifty            13.032 1078
-errol                  12.998 1079
-ArtsTyrian             12.982 1080
-TheDoctor              12.948 1081
-Glitchraptor           12.943 1082
-Gargoyl                12.937 1083
-jasper                 12.937 1083
-rw                     12.842 1085
-Agrougrou              12.819 1086
-endorz                 12.819 1086
-healthycheekums        12.819 1086
-Bolverk                12.799 1089
-witty                  12.769 1090
-Zaque                  12.769 1091
-dion0                  12.764 1092
-drcrypt                12.764 1092
-Paps                   12.764 1092
-Spif                   12.764 1092
-wotkd0121004           12.763 1096
-Spinelegand            12.747 1097
-scalarboson            12.697 1098
-ibes                   12.691 1099
-Fixedtrash19586        12.592 1100
-Almightybob            12.574 1101
-RoxStarzBM             12.554 1102
-Dylgear                12.532 1103
-Flyingpants            12.532 1103
-meatyocre              12.532 1103
-Sekkong                12.532 1103
-tof                    12.532 1103
-rozman                 12.497 1108
-flsc                   12.490 1109
-InfiniteBenevolence    12.456 1110
-RexxRaptorr            12.456 1110
-wheals                 12.393 1112
-Mygna                  12.360 1113
-Xgamer4                12.327 1114
-Siregios               12.324 1115
-IcyS                   12.323 1116
-asthiss                12.258 1117
-kws584                 12.258 1117
-Avack                  12.251 1119
-LifeFF                 12.203 1120
-Zleub                  12.203 1120
-Sandman25              12.135 1122
-Kithin                 12.057 1123
-Fenrir042              12.048 1124
-Senshi                 12.009 1125
-SubscribeToDemise      12.009 1125
-Yezarul                12.009 1125
-aparent                11.953 1128
-twitchtvtwospaedes     11.953 1128
-CBag                   11.946 1130
-AltWight               11.940 1131
-Jumanji                11.940 1131
-Eddoson                11.937 1133
-maximusg               11.937 1133
-Himanshu               11.839 1135
-Xoff                   11.839 1135
-Tonberto               11.838 1137
-crossborder            11.828 1138
-moxian                 11.805 1139
-nubinia                11.773 1140
-ENesbit                11.769 1141
-Rim                    11.733 1142
-BluEar                 11.728 1143
-dweomer                11.726 1144
-seyes                  11.711 1145
-SpaceCob               11.703 1146
-ZeroRuner              11.703 1146
-harriot                11.672 1148
-oddly                  11.631 1149
-Oroborous              11.631 1149
-ad3pt                  11.607 1151
-Britaniac              11.607 1151
-mnloleg                11.574 1153
-deszczowiec            11.552 1154
-GoblinBomb             11.552 1154
-Syneil                 11.552 1154
-theclanless            11.552 1154
-azzkikr                11.498 1158
-Quirk                  11.498 1158
-RotoRooter             11.498 1158
-2017koboldassassin     11.497 1161
-Neuromancer            11.490 1162
-Axel                   11.482 1163
-nicocat                11.387 1164
-Mudsilo                11.383 1165
-eleison                11.248 1166
-thekill                11.225 1167
-Deofuta                11.202 1168
-RedValkyrie            11.183 1169
-happyhex               11.130 1170
-Sar                    11.108 1171
-Graouh                 11.094 1172
-Bloodandfire           11.066 1173
-powderkeg              11.066 1173
-Tignaoh                11.044 1175
-three                  11.033 1176
-johnl023               11.016 1177
-dead                   11.011 1178
-drock42                11.011 1178
-Gazorpazorpfield       11.011 1178
-KSB                    11.011 1178
-MydosGodOfBeginnings   11.011 1178
-Turtleman12345         11.011 1178
-Hubbles                11.009 1184
-kilakan                11.009 1184
-Gadfly                 10.996 1186
-Larmestyx              10.990 1187
-msp                    10.956 1188
-Snicker                10.938 1189
-sophia                 10.915 1190
-Skivuli                10.898 1191
-korthal                10.855 1192
-Mitigate               10.855 1192
-JiminyMac              10.783 1194
-vsword                 10.779 1195
-fox255                 10.742 1196
-JFunk                  10.729 1197
-biffMalibu             10.711 1198
-flyleaff               10.703 1199
-Tabithi                10.671 1200
-hito                   10.648 1201
-kraftydee              10.626 1202
-Bareth                 10.623 1203
-cjo                    10.623 1203
-DALuke                 10.623 1203
-dipablo                10.623 1203
-Modestlyawesome        10.623 1203
-pajamin                10.623 1203
-peepeetipi             10.623 1203
-Skippy                 10.623 1203
-Narsil                 10.574 1211
-xorpalm                10.573 1212
-Duelies                10.568 1213
-eeldvark               10.568 1213
-jaekking               10.568 1213
-Lucherd                10.568 1213
-Noshyer                10.568 1213
-Rufus                  10.568 1213
-zygrunt                10.568 1213
-Eli                    10.398 1220
-junb69                 10.398 1220
-MasterJacques          10.397 1222
-Nstar                  10.302 1223
-0gre                   10.295 1224
-fugaros                10.295 1224
-Halogen                10.295 1224
-Irrix                  10.295 1224
-penster                10.295 1224
-Quarterback16          10.295 1224
-Vendryth               10.292 1230
-Remm                   10.246 1231
-Cheburashka            10.200 1232
-Rache69                10.184 1233
-Dris                   10.182 1234
-Pointless              10.108 1235
-Valarioth              10.091 1236
-Tulse                  10.066 1237
-Friz                   10.061 1238
-djinzorak              10.011 1239
-Koolguydude            10.011 1239
-gainkiller              9.974 1241
-SAJeffrey               9.974 1241
-xordid                  9.958 1243
-splatman                9.920 1244
-Erg                     9.828 1245
-aesoa                   9.817 1246
-Autgah                  9.817 1246
-TreasureGoblin          9.817 1246
-hanny                   9.783 1249
-AngelaSmythe            9.780 1250
-nemr118                 9.760 1251
-Earthguest              9.746 1252
-Foxy                    9.746 1252
-hotbaconsauce           9.746 1252
-knex                    9.746 1252
-LotharNight             9.746 1252
-shmeve                  9.746 1252
-psycow14                9.705 1258
-sankara                 9.705 1258
-TypeAskee               9.705 1258
-KGB                     9.703 1261
-astralcataclysm         9.702 1262
-KristoblXynda           9.648 1263
-Boodz                   9.644 1264
-FelipeSwartz            9.644 1264
-Frank                   9.644 1264
-greatseizure            9.644 1264
-kakashihatake           9.644 1264
-matyilona               9.633 1269
-Crocosmia               9.623 1270
-WabbaWook               9.589 1271
-styxcanada              9.585 1272
-pib                     9.568 1273
-Mlkhall                 9.566 1274
-sslrranma               9.566 1275
-hollowman               9.550 1276
-ElanMorin               9.514 1277
-Stendarr                9.499 1278
-Quasi                   9.477 1279
-F1L1N                   9.461 1280
-Surface                 9.447 1281
-blackbrew               9.397 1282
-Gatora                  9.354 1283
-Mekire                  9.303 1284
-Gorbigon                9.303 1285
-IcySystem               9.302 1286
-Gukra                   9.263 1287
-bolko                   9.246 1288
-shklvsk                 9.200 1289
-tape                    9.200 1289
-alfred1011              9.103 1291
-Beardradial             9.103 1291
-dragonmaster1818        9.103 1291
-kenshiro                9.103 1291
-lorywindrunner          9.103 1291
-Mahakala                9.103 1291
-mamonaku                9.103 1291
-theguruofreason         9.103 1291
-math4jedi               9.102 1299
-Sorrytornado            9.102 1299
-Charan                  9.091 1301
-caycecop                9.030 1302
-valuedmember            9.030 1302
-salmon                  9.007 1304
-Downhaven               8.996 1305
-Amianthus               8.990 1306
-Armakuni                8.990 1306
-Rubbertoe               8.990 1306
-Rushputin               8.990 1306
-Bammboo                 8.986 1310
-itcrowd                 8.986 1310
-maggai                  8.986 1310
-Wendy                   8.958 1313
-Name63                  8.938 1314
-Elnono                  8.914 1315
-FakerFangirl            8.914 1315
-incomingsplat           8.914 1315
-Chikkuri                8.898 1318
-TID                     8.895 1319
-ajaj                    8.871 1320
-Asanbosam               8.871 1320
-brakattak               8.871 1320
-Hildebrand              8.871 1320
-killdudes               8.871 1320
-steakbbq                8.871 1320
-Zigma                   8.871 1320
-bande                   8.815 1327
-kaikaun                 8.815 1327
-MollyMolluskus          8.815 1327
-Pemander                8.815 1327
-pfcuttle                8.815 1327
-Pitch                   8.815 1327
-Wingnut                 8.815 1327
-Zaweri                  8.815 1327
-Mumbling                8.742 1335
-Garrluk                 8.705 1336
-frankhovis              8.684 1337
-HumansTwo               8.676 1338
-maniacrov               8.676 1338
-LowFats                 8.671 1340
-benvolia8               8.660 1341
-drpain                  8.660 1341
-elsewire                8.660 1341
-Iflex                   8.660 1341
-krazykat                8.660 1341
-magenar                 8.660 1341
-Morrissey               8.660 1341
-mossagatemaggot         8.660 1341
-NoxCultor               8.660 1341
-ShornTheSheep           8.660 1341
-ystael                  8.660 1341
-DhobyGhaut              8.644 1352
-KiwiOfAdowableness      8.633 1353
-cereshysteria           8.564 1354
-aa6644                  8.552 1355
-Torious                 8.552 1355
-spelunker               8.521 1357
-Jackman447              8.514 1358
-duh                     8.510 1359
-HilariousDeathArtist    8.497 1360
-Dickchan                8.495 1361
-oki                     8.495 1361
-Halgar                  8.494 1363
-Duo                     8.471 1364
-sirkrieger              8.450 1365
-markarz                 8.440 1366
-Galeswift               8.397 1367
-duallyOhooly            8.379 1368
-damiac                  8.379 1369
-driftw00d               8.379 1369
-Mohan                   8.379 1369
-prad                    8.379 1369
-TollerGames             8.379 1369
-benya                   8.344 1374
-Cecillian               8.338 1375
-morlute                 8.338 1375
-jfunk                   8.318 1377
-Skeff                   8.268 1378
-Alarkh                  8.186 1379
-psychoDad               8.173 1380
-9uMaH                   8.162 1381
-soupercrawl             8.162 1381
-turnerjer               8.162 1381
-Rem                     8.091 1384
-anon                    8.030 1385
-bootles                 8.007 1386
-Bunnehwyld              7.998 1387
-loblaw                  7.998 1387
-Hailrake                7.990 1389
-Moopish                 7.990 1389
-MrFlay                  7.990 1389
-nezrel                  7.961 1392
-miragecloak             7.925 1393
-Numor                   7.909 1394
-ehfwnrgkwk              7.895 1395
-excalabu                7.888 1396
-FrankTheTank            7.860 1397
-centipede               7.837 1398
-cutslo                  7.837 1398
-kelthazard              7.837 1398
-Thomus                  7.837 1398
-Gryphonrising           7.836 1402
-shadowbow19             7.836 1402
-ajbRad                  7.815 1404
-joejoepie               7.815 1404
-thelaststarmaker        7.815 1404
-Glidergun               7.797 1407
-Meowmix                 7.797 1407
-bairyn                  7.796 1409
-Sorbius                 7.742 1410
-Cpiazzola               7.724 1411
-Talauna                 7.724 1411
-Amnesiac                7.674 1413
-Amplicon                7.660 1414
-Ant                     7.660 1414
-Miron                   7.660 1414
-Sayou                   7.660 1414
-socksu                  7.660 1414
-darthinebriated         7.658 1419
-Pinechild               7.658 1419
-1158511                 7.645 1421
-bmwyatt74               7.622 1422
-Intern                  7.622 1422
-TheHza                  7.622 1422
-MikeHunt                7.609 1425
-teko                    7.602 1426
-us17                    7.581 1427
-tilp                    7.552 1428
-Bagheara                7.550 1429
-IKeelU2                 7.550 1429
-Kloppie                 7.550 1429
-Nico3ck                 7.550 1429
-RogueNasty              7.550 1429
-scotcheyed              7.550 1429
-Hanibal                 7.510 1435
-knaveightt              7.510 1435
-rpophessagr             7.510 1435
-OICU812                 7.477 1438
-Rongonathon             7.467 1439
-Goblin1989              7.440 1440
-Sergey                  7.440 1440
-Xoai                    7.395 1442
-grumblor                7.371 1443
-Goyle                   7.355 1444
-kraedy                  7.355 1444
-prkay                   7.355 1444
-Sysice                  7.355 1444
-turnburgler             7.355 1444
-acoo                    7.338 1449
-cragspyder              7.338 1449
-nya                     7.338 1449
-TravisTheLouse          7.338 1449
-RBrandon                7.304 1453
-smocul                  7.304 1453
-spiff                   7.285 1455
-gribnar                 7.185 1456
-Mortrax                 7.073 1457
-Wesley                  7.073 1457
-OgrelordShrek           7.069 1459
-ScumlordStudio          7.041 1460
-KLWizard                7.035 1461
-Shukka                  7.033 1462
-olourkin                6.915 1463
-sedition                6.915 1463
-vible                   6.915 1463
-avis                    6.907 1466
-Crocus                  6.907 1466
-Cryne                   6.907 1466
-Dalwyn                  6.907 1466
-ec653                   6.907 1466
-Feihao                  6.907 1466
-HobsGoblin              6.907 1466
-Ios                     6.907 1466
-muningris               6.907 1466
-ohmi                    6.907 1466
-oliv1008                6.907 1466
-OlNoName                6.907 1466
-raszama                 6.907 1466
-scottb                  6.907 1466
-Zazen                   6.907 1466
-sprinter                6.836 1481
-antares                 6.797 1482
-Allen                   6.796 1483
-KcPhoenix               6.768 1484
-onursoysal              6.763 1485
-eitherlupin             6.649 1486
-TheBeefSupreme          6.632 1487
-Darkins                 6.604 1488
-mfiore51                6.547 1489
-Dirtsage                6.532 1490
-slavik159               6.532 1490
-Gandalfino              6.531 1492
-Jentry                  6.531 1492
-Naphistim               6.531 1492
-dxb338                  6.510 1495
-Iskender                6.510 1495
-GsBirdie                6.467 1497
-paul                    6.467 1497
-Achryn                  6.409 1499
-coal                    6.409 1499
-Pyrite                  6.409 1499
-archon                  6.395 1502
-frod                    6.395 1502
-MrBulldops              6.357 1504
-Boomshaker              6.355 1505
-Clownkicker             6.355 1505
-Manteiga                6.355 1505
-SharplyDressedMan       6.355 1505
-xhc                     6.320 1509
-Croases                 6.304 1510
-Innate                  6.304 1510
-kimnosuk                6.304 1510
-acriphony               6.297 1513
-trickynixon             6.296 1514
-agentgt                 6.247 1515
-bananaglory             6.247 1515
-Mirek                   6.247 1515
-b0tl3ss                 6.245 1518
-Edgeworth               6.245 1518
-FrancisDrake            6.202 1520
-Gigafire                6.201 1521
-TsingDao                6.185 1522
-kusayu                  6.178 1523
-letownia                6.178 1523
-krazyhades              6.161 1525
-SirTrogo                6.145 1526
-hummusdude              6.110 1527
-Azzok                   6.089 1528
-Chermit                 6.073 1529
-Edmond                  6.073 1529
-MBlaureNs               6.073 1529
-pappabj0rn              6.073 1529
-Wiilli                  6.073 1529
-Lekart                  6.046 1534
-bgiannan                5.998 1535
-PotionSeller            5.915 1536
-strictlyclitly          5.915 1536
-drcatpants              5.907 1538
-Pinata                  5.907 1538
-sambair                 5.907 1538
-mewnmewn                5.880 1541
-Wendigo                 5.880 1541
-particleface            5.804 1543
-HeyBub                  5.795 1544
-keltonhicks             5.729 1545
-mezee                   5.714 1546
-mottsauce               5.714 1546
-Orayn                   5.714 1546
-Owlicus                 5.714 1546
-Remliel                 5.714 1546
-monokles                5.693 1551
-beebee                  5.642 1552
-Dragoran                5.642 1552
-lns416                  5.642 1552
-mole0619                5.642 1552
-Patate                  5.642 1552
-Timidly                 5.642 1552
-Vizamar                 5.642 1552
-AlphaOmegaStrife        5.602 1559
-Biasface                5.602 1559
-BluePsionsOA            5.602 1559
-Celandrion              5.602 1559
-Chernop                 5.602 1559
-CuteImoen               5.602 1559
-Datgum                  5.602 1559
-handsome                5.602 1559
-Heskey                  5.602 1559
-hmmm                    5.602 1559
-khila                   5.602 1559
-Klosterheim             5.602 1559
-Mellonil                5.602 1559
-melvik                  5.602 1559
-moocowmoocow            5.602 1559
-MSparkDrrizzle          5.602 1559
-poirepourri             5.602 1559
-Probably                5.602 1559
-suduhmizer              5.602 1559
-Torax                   5.602 1559
-Whitewater              5.602 1559
-magnet0r                5.598 1580
-BlkMarble               5.555 1581
-erch1                   5.532 1582
-HarpBard                5.532 1582
-IcyNumb                 5.532 1582
-maelstrom               5.531 1585
-Beal                    5.463 1586
-im12btw                 5.463 1586
-jaruokki                5.463 1586
-MaxInAMilian            5.463 1586
-justnoob                5.409 1590
-laz                     5.409 1590
-nameroc                 5.339 1592
-dionysus                5.296 1593
-JohnStargazer           5.288 1594
-laceratedsky            5.288 1594
-OrcishTimmy             5.248 1596
-Newcomer                5.245 1597
-stocazola               5.242 1598
-sicily                  5.238 1599
-joaoluisp               5.170 1600
-ballsack                5.103 1601
-elend                   5.103 1601
-Heef                    5.103 1601
-Insan                   5.103 1601
-kirbodin                5.103 1601
-LeviathanJH             5.103 1601
-quincunx                5.103 1601
-Rawrsnax                5.103 1601
-Sneeker134              5.103 1601
-Terrin                  5.103 1601
-straycat                5.051 1611
-goliath                 4.948 1612
-Ajotti                  4.896 1613
-fernweh                 4.896 1613
-amalloy                 4.880 1615
-coffeedork              4.880 1615
-Reborn                  4.880 1615
-ximxim                  4.849 1618
-Yeoj                    4.811 1619
-Eeee                    4.805 1620
-chickenpie              4.764 1621
-Koldun                  4.714 1622
-BrendanD                4.693 1623
-Ketharn                 4.661 1624
-plsesad                 4.661 1624
-Revguard                4.661 1624
-smeego                  4.661 1624
-Sbamiri                 4.646 1628
-Altessia                4.642 1629
-Kasofa                  4.642 1629
-utis                    4.642 1629
-Smartscrazy             4.639 1632
-amentoraz               4.602 1633
-Ark                     4.602 1633
-cciulla                 4.602 1633
-craggadee               4.602 1633
-dadoka                  4.602 1633
-DeepDeath               4.602 1633
-DIonized                4.602 1633
-dva13                   4.602 1633
-esteth                  4.602 1633
-frensswa                4.602 1633
-Grimm                   4.602 1633
-Hood                    4.602 1633
-kolkov                  4.602 1633
-MeekRat                 4.602 1633
-miculber                4.602 1633
-Minorbread              4.602 1633
-Mnemonic                4.602 1633
-Norfair                 4.602 1633
-sikrin                  4.602 1633
-smazza                  4.602 1633
-The3ase                 4.602 1633
-TheFinalOne             4.602 1633
-toaanf4857              4.602 1633
-ZChris13                4.602 1633
-znke                    4.602 1633
-appiemonkey             4.567 1658
-bodyoftext              4.501 1659
-frappeman               4.501 1659
-Kook                    4.501 1659
-Kuzya                   4.501 1659
-Maurog                  4.501 1659
-Lucin                   4.463 1664
-AiretMC                 4.449 1665
-JirkfaceJones           4.449 1665
-mayonce                 4.449 1665
-WereVolvo               4.449 1665
-xraymikek               4.449 1665
-bli                     4.409 1670
-LordLovebone            4.409 1670
-mh2010                  4.409 1670
-ssteam                  4.409 1670
-BadToken                4.388 1674
-dasmau89                4.388 1674
-LumpyBacca              4.388 1674
-ThePrince               4.388 1674
-Uniporpoise             4.388 1674
-Enroth                  4.367 1679
-Mulkerokala             4.339 1680
-0hopark                 4.337 1681
-Banach                  4.337 1681
-beigtais                4.337 1681
-Calister                4.337 1681
-Duskembrace             4.337 1681
-Faca                    4.337 1681
-fili                    4.337 1681
-Fyery                   4.337 1681
-IBeShadow               4.337 1681
-myxocpahck              4.337 1681
-N1ck                    4.337 1681
-SylarSrden              4.337 1681
-Typee                   4.337 1681
-Guntaas                 4.293 1694
-Jess                    4.293 1694
-Ryosujin                4.293 1694
-weirdsound              4.293 1694
-Rose9                   4.282 1698
-Cheezewheel             4.270 1699
-Draanakar               4.242 1700
-Dwachs                  4.214 1701
-Heimdallr               4.214 1701
-Iwillforgetthis         4.214 1701
-kaybs                   4.214 1701
-Rule42                  4.214 1701
-Vigga                   4.214 1701
-YrmMerkstave            4.214 1701
-regularjogger           4.173 1708
-sagitran                4.173 1708
-theemperora             4.173 1708
-bza                     4.170 1711
-dhuckle                 4.103 1712
-DunwichHorror           4.103 1712
-DuxOrbis                4.103 1712
-Kisielow                4.103 1712
-lauthentik              4.103 1712
-mcpwn                   4.103 1712
-qtip2                   4.103 1712
-sanka                   4.103 1712
-stbrolaf                4.103 1712
-zachydoo                4.103 1712
-Zhenya24pyc             4.103 1712
-tschems                 4.058 1723
-schorsch312             4.051 1724
-sevenseve               4.051 1724
-yalue                   4.051 1724
-Deathtrap2010           3.983 1727
-cinornu                 3.977 1728
-wazuzu                  3.977 1728
-docflam                 3.948 1730
-Godling                 3.946 1731
-sooper                  3.661 1732
-agran                   3.571 1733
-ili                     3.501 1734
-Malkron                 3.501 1734
-TheGamingCockatoo       3.501 1734
-vk65535                 3.501 1734
-OrionPirate             3.499 1738
-spacenar                3.499 1738
-hypereia                3.449 1740
-Aldo                    3.409 1741
-flashguardian13         3.409 1741
-gestalt                 3.409 1741
-hairmachine             3.409 1741
-mobydollar              3.409 1741
-Prakerore               3.409 1741
-Promi                   3.409 1741
-tubbrt                  3.409 1741
-VoxxSkies               3.409 1741
-zarath9                 3.409 1741
-Veiltonx                3.389 1751
-bon2016                 3.388 1752
-unseenchild             3.388 1752
-Remaster19              3.380 1754
-sonya                   3.380 1754
-aaron                   3.374 1756
-doroboNeko              3.374 1756
-blazinghand             3.337 1758
-Colliwobble             3.337 1758
-Dusty                   3.337 1758
-ghwc                    3.337 1758
-jeedimahstah            3.337 1758
-Kavaar                  3.337 1758
-Pelerin                 3.337 1758
-rulib                   3.337 1758
-torrenera               3.337 1758
-tylertfb                3.337 1758
-gamet                   3.293 1768
-hawkwood                3.293 1768
-kumo                    3.293 1768
-Jumperg                 3.262 1771
-macandcheese            3.262 1771
-Bluetommy2              3.214 1773
-eragonby                3.214 1773
-fnmb                    3.214 1773
-Gonk                    3.214 1773
-Yarijo                  3.214 1773
-beuller                 3.195 1778
-durgin                  3.195 1778
-Felix                   3.195 1778
-gorpus                  3.195 1778
-gouda                   3.195 1778
-imWUMPUS                3.195 1778
-Lafayette               3.195 1778
-morik                   3.195 1778
-neisus                  3.195 1778
-spacegravy              3.195 1778
-Zubeida                 3.195 1778
-amnicolus               3.143 1789
-bobbobbob               3.143 1789
-chickeneater            3.143 1789
-drofenvy                3.143 1789
-FlyingSquare            3.143 1789
-Gilihad                 3.143 1789
-hortensia               3.143 1789
-quellanthyde            3.143 1789
-rcreutzb                3.143 1789
-RobertSmithOfTheCure    3.143 1789
-RudyRod                 3.143 1789
-Tetazoo                 3.143 1789
-WildSam                 3.143 1789
-artanisace              3.101 1802
-buttholecancer          3.101 1802
-Amaryllis               3.058 1804
-v20                     2.977 1805
-Ashar                   2.908 1806
-Bazza123                2.908 1806
-Captainscraps           2.908 1806
-Danteric                2.908 1806
-darko                   2.908 1806
-dobbymoodge             2.908 1806
-drt                     2.908 1806
-DungeonBabyVerySmall    2.908 1806
-Eagleeye                2.908 1806
-gornakius               2.908 1806
-Heth                    2.908 1806
-HighLander2112          2.908 1806
-JarielCorvus            2.908 1806
-koelner                 2.908 1806
-Nobrepepe               2.908 1806
-pigah                   2.908 1806
-QuCean                  2.908 1806
-Rumhand                 2.908 1806
-Sagittarian             2.908 1806
-Sanvar                  2.908 1806
-sau7503                 2.908 1806
-SirFunk                 2.908 1806
-smoqueed                2.908 1806
-StarButterfly           2.908 1806
-Xorcon                  2.908 1806
-Apostate                2.753 1831
-Mavenl                  2.753 1831
-MisterPig               2.753 1831
-piyakE                  2.753 1831
-qqqbard                 2.753 1831
-Yackwabbit              2.753 1831
-zoopyjoobles            2.753 1831
-bluetommy2              2.334 1838
-Acadians                2.305 1839
-Crypto177               2.305 1839
-edricgarran             2.305 1839
-hoohaw                  2.305 1839
-hoot                    2.305 1839
-jujuben                 2.305 1839
-KeeTraxx                2.305 1839
-maydaydemise            2.305 1839
-MetaCosm                2.305 1839
-mostballerwizard        2.305 1839
-Munq                    2.305 1839
-raph                    2.305 1839
-robertstho              2.305 1839
-Teryn                   2.305 1839
-tognito                 2.305 1839
-tyrion                  2.305 1839
-VikingKong              2.305 1839
-WellArmedPenguin        2.305 1839
-pyth0n                  2.268 1857
-corrust                 2.262 1858
-dysrexia                2.262 1858
-zardo                   2.262 1858
-ailesa                  2.195 1861
-Blackbelt               2.195 1861
-Chudej                  2.195 1861
-CODWOMAN                2.195 1861
-dumpsterbaby            2.195 1861
-Gartch5                 2.195 1861
-hideitinnarnia          2.195 1861
-lestiji                 2.195 1861
-neetthing               2.195 1861
-pemander                2.195 1861
-puppums                 2.195 1861
-Roy                     2.195 1861
-tenda                   2.195 1861
-Volly                   2.195 1861
-xight                   2.195 1861
-zahlanzi                2.195 1861
-Dolanko                 2.193 1877
-GameOver                2.193 1877
-kylel2345               2.193 1877
-morosan                 2.193 1877
-ronham13                2.193 1877
-srs                     2.193 1877
-Voda                    2.193 1877
-baezot                  2.143 1884
-EarthRocker             2.143 1884
-Flapstick               2.143 1884
-GoodBoy                 2.143 1884
-graemelion              2.143 1884
-grikel                  2.143 1884
-ikon                    2.143 1884
-Shepard                 2.143 1884
-skg3223                 2.143 1884
-stebl                   2.143 1884
-JimmahDean              2.075 1894
-KnobCreek               2.075 1894
-threedollarbill         2.075 1894
-Vark                    2.075 1894
-Zarni                   2.075 1894
-Ber                     2.068 1899
-Burzz                   2.068 1899
-Dordal                  2.068 1899
-MisterNyarlathotep      2.068 1899
-sighowe                 2.068 1899
-solomonrf               2.068 1899
-tomas                   2.068 1899
-TroubleDarcy            2.068 1899
-Wardy1                  2.068 1899
-abstractHop             1.908 1908
-alpinistek              1.908 1908
-anele                   1.908 1908
-archego                 1.908 1908
-ArcticSniper            1.908 1908
-Ashiichan               1.908 1908
-Azazapper               1.908 1908
-bond674                 1.908 1908
-brandobin               1.908 1908
-Broken26                1.908 1908
-Caillou112              1.908 1908
-cle                     1.908 1908
-darkdramon              1.908 1908
-dartaniar               1.908 1908
-Dfrag                   1.908 1908
-ditheos                 1.908 1908
-Elgiloy                 1.908 1908
-Eurtek                  1.908 1908
-Gaenar                  1.908 1908
-Gobu                    1.908 1908
-larett                  1.908 1908
-lazylenya               1.908 1908
-Mattshark               1.908 1908
-McGeekster              1.908 1908
-Mecrutio                1.908 1908
-n00b                    1.908 1908
-Nausicaa                1.908 1908
-Oki                     1.908 1908
-pchancharl              1.908 1908
-prikolics               1.908 1908
-RaHiT                   1.908 1908
-rbluntz                 1.908 1908
-roknel                  1.908 1908
-SenseofZot              1.908 1908
-Senya                   1.908 1908
-Serioussanchez          1.908 1908
-shamrock                1.908 1908
-skyfox997               1.908 1908
-spe3d0                  1.908 1908
-spennet                 1.908 1908
-Squonk                  1.908 1908
-Velawesomeraptors       1.908 1908
-wellsdb                 1.908 1908
-DarthIdiots             1.753 1951
-Gracefully              1.753 1951
-jiik                    1.753 1951
-kook                    1.753 1951
-Lootfiend               1.753 1951
-maloy8920               1.753 1951
-simples                 1.753 1951
-spanner                 1.753 1951
-stump                   1.753 1951
-theanchor75             1.753 1951
-Anaetherus              1.305 1961
-Angamoth                1.305 1961
-baebochu                1.305 1961
-Dasmos                  1.305 1961
-Erkek                   1.305 1961
-gimp                    1.305 1961
-Grithok                 1.305 1961
-Hook                    1.305 1961
-kawa                    1.305 1961
-knightengale            1.305 1961
-lumpers                 1.305 1961
-SexyTroll44             1.305 1961
-welfe                   1.305 1961
-aresram                 1.193 1974
-asymptus                1.193 1974
-exile                   1.193 1974
-PumaMan                 1.193 1974
-theelusivetrout         1.193 1974
-treasuregoblin          1.193 1974
-Wensley                 1.193 1974
-Anerion                 1.075 1981
-brandie                 1.075 1981
-kgusta                  1.075 1981
-mhershberg              1.075 1981
-MikeSchnier             1.075 1981
-PowerofKimchi           1.075 1981
-Taharka                 1.075 1981
-Temoid                  1.075 1981
-BDFisher                1.068 1989
-DeerForce               1.068 1989
-deskach                 1.068 1989
-jjblue                  1.068 1989
-nerdbeard               1.068 1989
-Peep                    1.068 1989
-Shargos                 1.068 1989
-Tuvky                   1.068 1989
-10111993                1.000 1997
-Aethirshero             1.000 1997
-afd                     1.000 1997
-akaushi                 1.000 1997
-ambioZ                  1.000 1997
-anethum                 1.000 1997
-Antem                   1.000 1997
-Arantyr                 1.000 1997
-Arban                   1.000 1997
-Archgoat                1.000 1997
-arglypuff               1.000 1997
-Arres                   1.000 1997
-astrognomer             1.000 1997
-atastypie               1.000 1997
-Aviak                   1.000 1997
-BadBadger               1.000 1997
-beaver                  1.000 1997
-blackwizard             1.000 1997
-BledDest                1.000 1997
-blisterpack             1.000 1997
-BNKirby                 1.000 1997
-Bobson                  1.000 1997
-boo                     1.000 1997
-brockrock007            1.000 1997
-Brom                    1.000 1997
-Bubnilka                1.000 1997
-Buntry                  1.000 1997
-burnthydra              1.000 1997
-Cactus                  1.000 1997
-cal                     1.000 1997
-CanOfBees               1.000 1997
-Cervance                1.000 1997
-Chaoticas               1.000 1997
-Chesslamb               1.000 1997
-Chizzley                1.000 1997
-comreich                1.000 1997
-cosh                    1.000 1997
-cphibes                 1.000 1997
-Crag                    1.000 1997
-CrawlingChaos           1.000 1997
-Cthuko                  1.000 1997
-Cuddlefish              1.000 1997
-dalord0                 1.000 1997
-DashRiprock             1.000 1997
-Dazliare                1.000 1997
-derath95                1.000 1997
-Destrian                1.000 1997
-didado                  1.000 1997
-dreaming                1.000 1997
-Drynwhyl                1.000 1997
-Epictetus559            1.000 1997
-Extreminator            1.000 1997
-Falhoo                  1.000 1997
-Fireborn                1.000 1997
-forly                   1.000 1997
-Frisp                   1.000 1997
-Fsat                    1.000 1997
-Fullest                 1.000 1997
-gabygaby                1.000 1997
-GalAn                   1.000 1997
-Garian                  1.000 1997
-Gataroth                1.000 1997
-geeseburger             1.000 1997
-Genou                   1.000 1997
-Giavanni                1.000 1997
-Gidget                  1.000 1997
-Gorgoleon               1.000 1997
-Graywind                1.000 1997
-Grustny                 1.000 1997
-GuillySoulStar          1.000 1997
-harmitage               1.000 1997
-Harvester               1.000 1997
-Hauke                   1.000 1997
-HAWKINGL3623            1.000 1997
-hawthornbunny           1.000 1997
-hermite                 1.000 1997
-Hoogamagoo              1.000 1997
-Hookshot                1.000 1997
-hubbles                 1.000 1997
-iasdfbui                1.000 1997
-Jawreze                 1.000 1997
-jay                     1.000 1997
-jefus                   1.000 1997
-jehoesefat              1.000 1997
-jiglerul                1.000 1997
-jlc4533                 1.000 1997
-Joebear                 1.000 1997
-johnnyslick74           1.000 1997
-JumpyTheHat             1.000 1997
-jwoodward48ss           1.000 1997
-Karian                  1.000 1997
-Kerbtree                1.000 1997
-kerl                    1.000 1997
-KevinV12000             1.000 1997
-kingbuddyboy            1.000 1997
-kraktruk                1.000 1997
-lallenlowe              1.000 1997
-Lavron                  1.000 1997
-lhg1003                 1.000 1997
-lilicarose              1.000 1997
-lionkun                 1.000 1997
-Locuples                1.000 1997
-MackTheKnife            1.000 1997
-MadMonk                 1.000 1997
-mango                   1.000 1997
-mindlar                 1.000 1997
-Minkus                  1.000 1997
-miro123                 1.000 1997
-mndeal                  1.000 1997
-modulartoil             1.000 1997
-MongoFromTheCongo       1.000 1997
-morbevis                1.000 1997
-MrChuckles20            1.000 1997
-Mysteryquy              1.000 1997
-Mythocy                 1.000 1997
-nabay                   1.000 1997
-nagaseeker              1.000 1997
-Nethershadow            1.000 1997
-NotATowel               1.000 1997
-nrok                    1.000 1997
-numlockpick             1.000 1997
-Nymphicus               1.000 1997
-Oleandros               1.000 1997
-om                      1.000 1997
-Omnyx                   1.000 1997
-Oppai                   1.000 1997
-Phantomfrettchen        1.000 1997
-Pikel                   1.000 1997
-pkmx                    1.000 1997
-PossumBlood             1.000 1997
-Prenthaom               1.000 1997
-Prokosch                1.000 1997
-PsycTheWalrus           1.000 1997
-qice                    1.000 1997
-Radpipe                 1.000 1997
-Ravini                  1.000 1997
-Reptilec                1.000 1997
-retrocombine            1.000 1997
-roguesci                1.000 1997
-ruwin                   1.000 1997
-rygusaur                1.000 1997
-sacollins               1.000 1997
-sakkata                 1.000 1997
-Sassnad                 1.000 1997
-scavi                   1.000 1997
-Scud                    1.000 1997
-SFR                     1.000 1997
-shadowmastr             1.000 1997
-shubniggurathsclit      1.000 1997
-SilverMoonie            1.000 1997
-SirLyart                1.000 1997
-skipper                 1.000 1997
-Slast                   1.000 1997
-smajdalf11              1.000 1997
-smedtjen                1.000 1997
-smoothflow              1.000 1997
-snackwell               1.000 1997
-StormySan               1.000 1997
-Stral                   1.000 1997
-th3stone                1.000 1997
-Thatotherguy            1.000 1997
-TheLastOne              1.000 1997
-themoken                1.000 1997
-ThePhantomMennas        1.000 1997
-tiddytheef34            1.000 1997
-Tiocfaidh               1.000 1997
-trurl                   1.000 1997
-tutu                    1.000 1997
-TXMaccay                1.000 1997
-ubername                1.000 1997
-v77                     1.000 1997
-veneficus               1.000 1997
-videlicet               1.000 1997
-Viilla                  1.000 1997
-Vorshek                 1.000 1997
-VoxFini                 1.000 1997
-waylon531               1.000 1997
-wh1l                    1.000 1997
-WildeEngineer           1.000 1997
-worldfamousw            1.000 1997
-xboxut                  1.000 1997
-YaBoi                   1.000 1997
-yahden                  1.000 1997
-Yakui                   1.000 1997
-yutgfrweuigie           1.000 1997
-zerkcies                1.000 1997
-Zerriz                  1.000 1997
-ZomBoFoB                1.000 1997
+Name 			Score Rank T.Score T.Rank
+kuniqs               4522.531    1 3508   38
+lavandula            3261.601    2 3255   45
+yermak               2191.683    3 7052    2
+lemonizer            1434.175    4 2727   73
+herpmino             1228.130    5 4628   14
+rocknlol             1069.333    6 1631  218
+spacey               1004.337    7 3639   34
+inmateoo             1002.758    8 4454   18
+snack                 923.130    9 4862    7
+walkerboh             773.639   10 4537   17
+angani                769.220   11 2372   99
+asonge                755.146   12 4605   15
+4tharraofdagon        741.259   13 3055   56
+manman                723.728   14 7291    1
+murphy                698.414   15 3581   36
+kenran                696.049   16 3826   29
+beargit               686.104   17 5372    5
+morganleah            651.997   18 3052   57
+stickyfingers         634.755   19 4631   13
+particlephysics       607.287   20 4933    6
+rkdn42                594.443   21 3170   49
+enterq                579.869   22 1940  156
+cobra                 565.677   23 4829    9
+shummie               550.303   24 3493   39
+qw                    539.247   25 4153   23
+ytcomultraviolent4    481.460   26 6155    3
+thatjjthatgod         471.983   27 3774   31
+koboldina             467.401   28 4696   11
+hexaflexagon          433.059   29 3807   30
+hellonello            430.528   30 3913   28
+veronicademononica    428.914   31 2845   69
+rubinko               422.830   32 4450   19
+ggul001               410.434   33 3270   43
+tlatlagkaus           404.611   34 4377   21
+demise                395.181   35 5870    4
+bluepin               385.424   36 3487   40
+raine357              384.609   37 1005  393
+minmay                360.155   38 4342   22
+nikheizen             359.140   39 4129   24
+edgefigaro            356.174   40 2865   66
+mopl                  352.714   41 1443  264
+tegga21               348.950   42 2912   64
+tself55               342.855   43 3092   52
+gerad                 336.520   44 3151   50
+toastedzergling       335.252   45 3955   27
+won                   331.274   46 2926   61
+sphara                330.436   47 4687   12
+lochraine             328.314   48 3678   33
+petestorm             321.828   49 1907  160
+mdvedh                312.582   50 3462   41
+floodkiller           311.888   51 2635   83
+jlipinski             311.414   52 2065  142
+gravenous             310.955   53 2917   63
+dowan                 309.841   54 3723   32
+armaa                 307.896   55 2547   86
+mbj2                  306.425   56 2745   71
+araganzar             302.883   57 4410   20
+100p                  302.306   58 1769  191
+gameguard             299.142   59 2834   70
+devlanmud             296.670   60 2360  102
+sleeves               295.499   61 3108   51
+tasonir               290.556   62 2978   59
+sharkman1231          290.166   63 2689   79
+magipi                284.189   64 2366  100
+jannitor              279.632   65 1542  243
+jeanjacques           274.030   66 2323  107
+exolun                271.546   67 2123  136
+heteroy               258.969   68 2737   72
+placid                251.401   69 3249   47
+lakren                248.011   70 2246  115
+hyperimplojin         244.260   71 3059   54
+vajrapani             243.211   72 2196  123
+langoroth             241.570   73 1403  273
+defe                  239.990   74 1998  150
+glosham               238.698   75 2253  114
+shard1697             232.390   76 2434   92
+hihot                 231.645   77 1549  241
+mibe                  230.550   78 4848    8
+pleonasm              224.546   79 2246  115
+doesnt                222.840   80 3058   55
+alcopop               219.783   81 3956   26
+caco                  219.030   82 4598   16
+cerealjynx            215.919   83 2093  139
+palyth                209.617   84 2311  108
+rchandra              207.471   85 2716   75
+artagas               202.362   86 1368  283
+ge0ff                 202.351   87 4024   25
+faldahar              200.258   88 3405   42
+zlionsfan             198.909   89  646  578
+kfa408                198.665   90  865  463
+northaanb             197.240   91 2394   96
+danakh                197.227   92 1579  230
+fazisi                196.117   93 1818  177
+gordonoverkill        195.980   94 3540   37
+hungryspirit          195.161   95 2696   78
+kevinyang101          195.153   96 1337  291
+konstantin            192.360   97  225 1099
+gorglomux             191.224   98 2710   76
+kml1283               189.144   99 1813  178
+assbag                189.091  100 2850   68
+vanveen               187.901  101 2647   81
+dying5ever            187.106  102 4767   10
+melvina               185.463  103 2417   93
+penus                 185.014  104 1851  171
+ducks72               184.424  105 2381   97
+ragingrage            182.707  106 2242  118
+fantismo              181.060  107 1443  264
+melvinkitnick         179.468  108 2128  135
+crut                  178.617  109 2697   77
+sporophyte            177.390  110 2042  145
+likado                176.396  111 3254   46
+radinms               176.049  112  669  568
+zkyp                  175.226  113 3195   48
+alstar                171.567  114 1021  387
+beholder179           170.993  115 2019  148
+baz                   170.363  116 1510  248
+platinum              169.854  117 3062   53
+dominolapin           169.712  118 1803  181
+cliffracer            168.358  119 2924   62
+dynast                167.594  120 2658   80
+liimbo                167.372  121 2407   94
+loopi                 166.678  122  961  414
+puimur                166.464  123 2306  109
+chobophobe            163.972  124 1570  233
+shadowablaze          162.019  125 1593  226
+epdtry                161.433  126 2639   82
+flaminglnfernal       161.121  127 1829  174
+case                  160.220  128 2995   58
+volgon99              159.793  129 1359  285
+thenoid               159.637  130 2949   60
+glaas                 159.543  131 2287  111
+nkym                  159.408  132 1900  162
+fearitself            156.168  133 2244  117
+esper6                156.020  134 1909  159
+hyperlasty            155.754  135 3584   35
+cerepol               154.027  136 1233  316
+rwhughston            152.370  137 1607  223
+sage1234              152.366  138 2468   88
+holmedog              151.956  139 1214  324
+hieropants            151.018  140 2342  104
+petermcneter          150.976  141 1564  237
+rast                  149.110  142 2853   67
+klowno                146.647  143  546  628
+sillywilly            145.442  144  627  584
+jjjjhere              144.997  145 2581   85
+gammafunk             143.756  146 2724   74
+turgon                143.738  147 1800  182
+bookman               143.107  148 1479  252
+axe                   140.521  149 2447   90
+grindst0ne            138.672  150 1805  180
+thalamas              136.437  151 2284  113
+rkaid                 135.286  152 2021  147
+hosung                133.478  153 2064  143
+wormsofcant           133.411  154 2105  137
+izverg                133.126  155  286  956
+tickenest             132.809  156 1684  209
+captblasto            132.558  157 1229  318
+legendaryferret       131.819  158 2444   91
+whaleporn             129.406  159 1152  351
+thedarkstar           129.213  160 1578  231
+zwobot                127.283  161 2207  122
+mrplanck              126.104  162 2911   65
+slowgraham            125.602  163 1584  227
+monsterracer          124.484  164 1695  205
+laevanesce            124.302  165 1918  158
+maxonian              123.398  166 1902  161
+datul                 122.631  167 2180  125
+xgamer67              121.658  168 2102  138
+coolio                121.066  169 1777  190
+rrauwl                117.562  170 1198  332
+misericorde           117.345  171 1762  193
+laraso                115.990  172 2506   87
+nicocat               114.942  173 1431  268
+removed               113.520  174 2342  104
+malacante             112.972  175 1157  348
+mrks                  112.648  176  383  786
+ziggurnaut            111.337  177 2401   95
+mrchinwatt            111.180  178 1701  202
+metalogical           110.768  179 2076  140
+tcjsavannah           110.676  180 2606   84
+ksagri                110.458  181 2158  128
+jenzors               110.357  182 1433  267
+prongedramen          110.335  183 3265   44
+gooddemon3            110.055  184 1565  236
+badtown               109.485  185 1015  391
+dialectric            109.282  186  888  449
+koreanrunesaw         108.413  187  159 1308
+helmschank            106.473  188 1820  176
+newuser               104.174  189 1474  254
+leszczynek            103.979  190 1954  154
+ungratefuldead        103.385  191 1701  202
+cephied0              102.523  192 1048  378
+rodrick               102.129  193 1449  261
+yom                   101.564  194 1856  168
+emikaela              101.488  195 2332  106
+donomii               101.004  196 1026  385
+bobbycarnage          100.780  197 2134  133
+salade2fruit          100.640  198 2138  131
+suntroll               99.950  199 1556  238
+prohare                99.860  200 2074  141
+dpayne                 99.830  201 2177  126
+huckle                 99.458  202 1721  200
+adibis                 99.024  203 1610  221
+lepidopteraptor        98.951  204 2354  103
+rebelfire              98.910  205 1386  279
+dri                    98.618  206 1623  219
+gramm                  98.311  207 2147  129
+nicutudor              97.553  208  963  413
+threeinvisibleducks    97.198  209 1897  165
+vomitron               97.109  210 2138  131
+merphle                97.055  211 1483  251
+lostnumber             96.662  212 1427  269
+fv001                  96.651  213  984  403
+thereisnogod           96.150  214  879  455
+tigertrap              95.714  215 1780  189
+firefart               95.648  216 1382  280
+kit                    95.171  217  570  613
+zhorgal                94.893  218 1167  342
+findor                 94.323  219 1583  228
+yore                   94.184  220 1283  303
+pekkekk                93.927  221 1725  199
+logicninja             93.704  222  708  550
+odds                   93.361  223 2286  112
+zackoid                93.114  224 1577  232
+willcat                93.051  225 1982  153
+strat                  92.766  226 2242  118
+prozacelf              92.024  227 1621  220
+mpkinton               91.596  228 2166  127
+rhandor                91.537  229 1502  249
+mdonais                91.371  230 1661  212
+raoeoiku               91.000  231 1552  240
+dvd                    90.715  232 1453  260
+sapher                 90.590  233 2026  146
+akrius                 90.450  234 1201  330
+hisar                  90.403  235  576  608
+astronautguy           90.245  236 2002  149
+murtidash              89.796  237 1782  188
+foghornleghorn         89.572  238 1949  155
+uncommongray           89.478  239 1381  281
+gnome                  89.407  240 1898  164
+viktor                 88.855  241 1900  162
+ranchugoldfish         88.819  242 2209  121
+malchor                88.422  243 2378   98
+nebukadnezar           87.917  244 1545  242
+normalperson7          86.622  245 2454   89
+soberaf                86.278  246 1262  307
+ddubois                85.606  247 1689  207
+jaqwonthechef          85.132  248 1495  250
+itsmu                  84.821  249 1894  166
+rjrrt                  83.544  250 1329  292
+unprepared             83.487  251  743  528
+asdu                   83.479  252 1998  150
+ssalbiz                83.159  253 1752  194
+xavori                 83.079  254 2048  144
+caerwyn                82.763  255  574  609
+chrysalis              81.403  256 1294  301
+chakani                81.224  257 1825  175
+buddhastalin           81.140  258 1513  247
+mandevil               80.861  259 2295  110
+filthy                 80.448  260 1100  362
+bubblethief            80.297  261 1850  172
+svendre                80.165  262 2131  134
+kurzedmetal            80.132  263 1686  208
+demiskeleton           79.088  264  324  883
+dogshitonmytoe         79.036  265 1461  258
+tempest                78.951  266 1262  307
+abysmalminton          78.891  267 1446  262
+bogleg                 78.231  268  144 1355
+jaryn25                76.798  269 1204  328
+chish                  76.279  270 1601  224
+jerkstore              76.115  271 1462  257
+escy                   76.026  272 2216  120
+rikonman               75.913  273 1682  210
+lostintranslocation    75.397  274 1783  187
+ranzir                 74.883  275 1464  256
+righteousdevil         74.871  276 1411  272
+mtvsty1e               74.635  277 1217  322
+silenth                74.130  278  617  589
+vactor                 73.339  279 1289  302
+ninetaledfox           73.303  280  720  541
+sargx                  73.086  281 1016  390
+rexbael                72.880  282 1663  211
+jorn                   72.862  283  966  411
+rephenryclay           72.842  284 1852  170
+antigravityiii         72.758  285 1633  217
+mungchungdo            72.665  286 1583  228
+eveningcorners         72.661  287 1470  255
+undo                   72.397  288 1659  213
+reykjavikian           72.103  289 1085  364
+vojta                  72.034  290 1659  213
+chiseanne              71.354  291 1166  344
+supernewton            71.259  292 1534  244
+kaostheory             71.006  293 1207  326
+sedgwick               71.006  294 1418  270
+shadowmage952          70.526  295 2190  124
+bromont                70.304  296 1393  277
+grandjackal            70.075  297 1806  179
+downpour               70.043  298 1454  259
+deadleaves             69.096  299  525  645
+demenzo                69.023  300 1521  245
+cerulescent            68.980  301 1657  215
+kaltchre               68.927  302 1700  204
+farquar                68.834  303 1195  333
+samog                  68.782  304  989  400
+frostgod               68.768  305  466  702
+xurdan                 68.733  306 1072  370
+skeral                 68.662  307 1608  222
+shador                 68.216  308  755  521
+doomlord               67.957  309 1888  167
+kautzman               67.855  310 1600  225
+raetorn                67.639  311  535  639
+bronet                 67.467  312  898  440
+glagha                 67.391  313 1184  336
+welfe                  67.264  314 1032  382
+kazak                  67.258  315  699  554
+arivia                 66.974  316  408  756
+timinator              66.972  317  664  570
+unholydonuts           66.851  318  896  441
+beldrama               66.648  319  392  774
+oozefury               66.259  320 1440  266
+cimanyd                66.183  321 1401  274
+dilpil                 65.699  322 1309  299
+sirkenneth             65.434  323 1130  356
+cryingnoob             65.312  324 1191  334
+tv1990                 64.721  325 1134  355
+aalglatt               64.626  326  200 1161
+hittemv20vhard         64.386  327 1155  349
+enarc13                64.216  328  784  506
+dxctxrx                63.624  329 1719  201
+nattefrost             63.601  330 1987  152
+jotwebe                63.487  331  821  490
+realz                  63.265  332 1570  233
+parsimony              62.891  333 1017  389
+advil                  62.795  334 1090  363
+fenrisulfr             62.646  335  407  759
+nich                   62.293  336 1306  300
+tosi1                  62.259  337 1057  376
+amgard                 61.845  338  448  715
+plussizemalemodel      61.688  339  602  597
+erikthered             61.602  340 1940  156
+splatt                 61.471  341 2362  101
+shimatora              61.291  342 1327  293
+sin92                  61.128  343  596  601
+raiza                  61.084  344 2142  130
+ganima                 60.706  345 1210  325
+cigotuvi               60.632  346 1751  195
+someoneawful           60.393  347 1570  233
+moogleknight           60.006  348 1316  297
+vigga                  59.961  349 1354  287
+cabbagehands           59.462  350 1840  173
+findleman              59.289  351  591  604
+darktechnomancer       58.983  352 1789  186
+dillytodds             58.971  353  607  592
+blackbelt              58.937  354 1158  347
+inqbanana              58.900  355 1355  286
+heartnet               58.218  356 1347  290
+lilbthebasedgod        57.953  357 1171  339
+wyzack                 57.682  358  100 1528
+coldbreeze             57.589  359 1167  342
+stillpimpin            57.036  360 1317  295
+fingolfin              57.032  361  333  867
+lino                   56.991  362  135 1382
+mmcf                   56.593  363  874  459
+djent                  56.534  364  854  473
+apoch                  56.500  365  695  557
+nelagend               56.366  366  700  552
+yt                     56.244  367  953  416
+zooty                  56.243  368 1800  182
+pooshlmer              56.020  369  851  475
+beardtony              55.887  370 1048  378
+tittycrusher           55.816  371 1270  306
+w00t                   55.788  372  752  523
+mumawa                 55.780  373  469  697
+berder                 55.637  374 1792  184
+danielguo94            55.234  375 1739  196
+quiktournament         54.771  376  643  581
+bwijn                  54.636  377  185 1208
+karagy                 54.572  378  471  693
+hatguy                 54.537  379 1227  319
+twogrow                54.299  380  816  491
+clockworksoul          54.255  381 1200  331
+tijit                  54.232  382 1730  198
+frogsaron              54.172  383 1171  339
+modargo                54.130  384 1792  184
+tsouns                 54.123  385  347  848
+cba                    54.023  386 1394  275
+pedant                 54.014  387 1691  206
+suddenbreakfast        53.993  388  744  526
+wait                   53.937  389 1245  311
+tsuxds                 53.452  390  889  447
+edsrzf                 53.428  391  398  771
+flt                    53.304  392  877  457
+misha                  52.678  393 1220  320
+mordus                 52.595  394  467  700
+barneygumball          52.551  395 1142  353
+howech                 52.533  396  467  700
+inde                   52.518  397 1240  314
+scisormetimb3rs        52.277  398 1414  271
+darksilverin           52.112  399 1326  294
+happysmile16           51.803  400  275  975
+zombiesheep            51.609  401 1163  345
+stoats                 51.446  402  985  402
+gracq                  51.392  403  225 1099
+offsetsiren            50.999  404  509  661
+fanggot                50.972  405 1767  192
+rageheart7             50.436  406 1216  323
+brainstorm             50.417  407  195 1183
+no0bjke                50.412  408  858  471
+shinino                50.117  409 1253  309
+odiv                   49.880  410 1478  253
+warped                 49.827  411  919  429
+sharpcheddar           49.715  412  559  622
+internetkraken         49.576  413 1556  238
+cheese                 49.377  414  627  584
+mathmaestro            49.316  415 1081  367
+dekrus                 49.285  416  744  526
+kickascii              49.264  417 1272  305
+randumb                49.091  418  909  435
+lysistrata             49.047  419 1002  396
+fatvalkilmer           49.017  420 1003  395
+sreda                  48.588  421 1154  350
+ijustatesigmund        48.527  422  924  428
+jackthecabe            48.396  423  787  504
+shpingle               48.078  424  444  720
+sailorbob              47.901  425 1173  338
+2d6                    47.862  426  289  952
+psywombats             47.799  427  883  452
+p15712                 47.755  428  373  800
+sambo                  47.724  429  305  922
+sorlin                 47.703  430 1243  312
+triskal                47.659  431  428  736
+insane59               47.550  432  833  483
+haldmier               47.451  433 1218  321
+ldierk                 47.379  434 1231  317
+atomicknyte            47.365  435  220 1113
+acwest                 47.324  436  240 1056
+papilio                47.240  437  245 1048
+drakiev                47.026  438  896  441
+irqconflict            46.909  439  457  706
+caiaphas               46.527  440  539  637
+obadiahtheslim         46.522  441 1202  329
+inept                  46.469  442  555  624
+fooot                  46.347  443  451  713
+dmnsn                  46.195  444  730  534
+feta                   46.154  445  567  615
+poisonmushroom         46.017  446  508  662
+loser178               45.639  447  758  519
+kiel97                 45.635  448  512  659
+wobbu                  45.452  449 1148  352
+ferkelamun             45.443  450 1115  358
+bazoo                  45.412  451 1519  246
+chillblain             45.393  452  577  607
+busta                  45.292  453  517  653
+moohaus                45.259  454  971  409
+neongrey               45.174  455  487  676
+trogdor666             45.162  456  564  617
+fakerfangirl           45.085  457  483  682
+elan                   44.982  458  435  730
+ijontichy1             44.898  459  604  595
+cosmicafro             44.836  460 1020  388
+puppykicker            44.768  461 1114  359
+lexie                  44.753  462  765  514
+eptagon                44.500  463  546  628
+growf                  44.463  464  979  407
+aelig                  44.431  465  914  431
+jeffidafish            44.304  466 1119  357
+mike2r                 44.228  467  234 1081
+letos                  44.063  468  506  664
+canard                 44.024  469 1369  282
+frogmouthbird          43.912  470  440  723
+salix                  43.724  471 1207  326
+sleevener              43.628  472 1363  284
+zrachosh               43.344  473  531  643
+kidcy                  43.188  474  453  711
+demisesr               43.126  475 1171  339
+chifra                 42.787  476  508  662
+ehwuts                 42.607  477  926  425
+tizzy                  42.574  478  814  493
+skilld14               42.558  479 1353  288
+slimerobin             42.539  480  115 1455
+phaedo                 42.524  481 1393  277
+grimtooth              42.484  482  928  423
+plasticautomaton       42.373  483  435  730
+b56                    42.300  484  608  591
+chukamok               42.284  485 1053  377
+angmar                 42.084  486 1444  263
+ac13                   41.856  487  901  439
+iksarhs                41.789  488 1060  374
+cyborgemu              41.754  489  610  590
+shibe                  41.694  490 1077  369
+mandoo                 41.690  491  598  600
+ultrashaft             41.591  492  983  405
+thaddeus               41.523  493 1032  382
+squip                  41.485  494  475  691
+wark                   41.412  495 1731  197
+c0l                    41.326  496  860  469
+candlesan              41.235  497 1652  216
+sergedm                41.111  498  561  621
+matthieus              40.972  499  525  645
+syranez                40.930  500  940  419
+cral                   40.920  501  416  748
+gedrah                 40.816  502  927  424
+yhamm                  40.738  503 1135  354
+lightheart             40.682  504  474  692
+yurtisuma              40.634  505  569  614
+gridlocked             40.347  506  405  765
+asdasd2                40.340  507  747  525
+setanta                39.830  508 1027  384
+deemzul                39.826  509 1317  295
+sirrick                39.811  510  814  493
+vinniefish             39.457  511 1068  372
+suomimenusko           39.433  512 1349  289
+conniption             39.390  513  792  500
+lukano                 39.234  514  995  399
+spaghetti              39.219  515  205 1149
+lepermessiah           39.125  516 1183  337
+brahma                 39.123  517  368  813
+geewiz                 39.057  518  792  500
+loom                   39.055  519  894  443
+someflowers            39.033  520  520  651
+medar                  38.830  521 1109  360
+lazycnw                38.693  522  425  739
+tryptr                 38.666  523 1012  392
+acetwo5                38.661  524 1084  365
+feelmyfire             38.639  525  875  458
+sasquatch              38.521  526  327  881
+dragonlass             38.512  527  348  845
+ryco                   38.470  528  293  945
+guenter                38.306  529  619  586
+setecastronomy         38.285  530 1855  169
+leobuilt               38.244  531  402  768
+dipster                38.144  532 1312  298
+agentchuck             38.143  533  390  778
+exaltedone87           38.110  534  619  586
+drewskiskiski          37.708  535  150 1323
+spurious               37.679  536  477  689
+laan                   37.634  537  852  474
+kriby                  37.531  538  988  401
+siprus                 37.521  539  679  563
+usscaptain             37.521  540  890  446
+cardtrick              37.518  541 1234  315
+nothus                 37.513  542  446  717
+lokibrotherofthor      37.442  543  562  620
+shitimlost             37.228  544  667  569
+estick                 36.996  545  457  706
+patheticliltramp       36.796  546  249 1038
+queshclam              36.769  547  602  597
+dricus                 36.757  548  885  450
+corehhhhh              36.452  549  290  949
+febz                   36.304  550  740  530
+cybersaint2k           36.240  551  495  672
+groothewanderer        36.234  552  220 1113
+lordsloth              36.231  553 1080  368
+darkestones            35.988  554  457  706
+chago123               35.907  555  388  779
+clweeks                35.769  556  533  640
+dreamgalloper          35.505  557  794  499
+agooddog               35.474  558  761  517
+azarias                35.471  559  699  554
+sevenseeds             35.451  560  589  605
+frostedmuffins         35.309  561  982  406
+lunkers                35.222  562  303  926
+lightli                35.157  563  777  508
+skittles               35.156  564  496  670
+numknucks              35.151  565  115 1455
+mrlimpet               34.941  566  366  817
+mitch45678             34.930  567  654  573
+dobroeutro             34.560  568  789  503
+chasesp                34.355  569  926  425
+eld                    34.086  570  592  603
+aithe4ngel             34.032  571  406  763
+outrageousfun          34.022  572  882  453
+exporg                 33.999  573  487  676
+feirund                33.788  574  382  790
+george                 33.703  575  971  409
+drakenburg             33.648  576  323  886
+humperndinck           33.594  577  498  667
+docj                   33.591  578  573  611
+linjason               33.394  579  907  437
+morgon                 33.373  580  740  530
+functor                33.362  581  942  417
+juudaz                 33.328  582  716  546
+joy1999                33.301  583  841  479
+agricola               33.271  584  755  521
+valmet                 33.271  585  290  949
+banquo                 33.174  586  273  981
+mirrmurr               33.094  587 1394  275
+snowy                  33.071  588  419  743
+cruella                32.960  589  315  902
+bananafish1988         32.821  590 1037  380
+kewadin                32.810  591  485  679
+mrebitz                32.810  591  315  902
+silurio                32.795  593  230 1086
+gobbopathe             32.701  594  324  883
+ojw                    32.604  595 1064  373
+frobop                 32.543  596  727  539
+cryogen                32.527  597  500  666
+almacia                32.505  598  868  462
+dpeg                   32.484  599  215 1130
+krigyl                 32.340  600  766  513
+hungryneko             32.161  601 1253  309
+scuka                  32.147  602  757  520
+nagnazul               32.126  603 1034  381
+deadlykitten           32.018  604  894  443
+kosschaser             31.895  605  513  658
+ksh1040                31.828  606  546  628
+theodb                 31.775  607  870  461
+rocke                  31.582  608  160 1288
+mandarbmax             31.568  609  293  945
+kazimir                31.497  610  811  495
+maxxx                  31.474  611  105 1509
+gressup                31.292  612  355  836
+sevendeadlysins        31.236  613  913  433
+schimscham             31.235  614  691  559
+huixax                 31.134  615  827  486
+arcmage                31.100  616  408  756
+collect0em0all         31.016  617  832  484
+voodoofly              30.967  618  996  398
+blindsquirrel          30.923  619  100 1528
+gosunero               30.872  620  546  628
+hasart                 30.825  621  552  625
+edilaic                30.799  622  392  774
+josefromcouch          30.698  623  925  427
+elbereth               30.691  624  543  633
+nightstar              30.676  625  984  403
+jerry                  30.656  626 1283  303
+shinoi                 30.565  627  480  684
+nightblair             30.464  628  408  756
+soyweiser              30.185  629  471  693
+alphabetpasta          30.171  630  235 1073
+voxish                 30.156  631  100 1528
+deathclocker           30.100  632  941  418
+anduranha01            30.020  633   45 1865
+crazyarbalest          29.971  634  446  717
+howlingfantods         29.805  635  248 1042
+christhawk             29.757  636  358  831
+gorice                 29.691  637  694  558
+urami                  29.670  638  436  728
+freeshrugs             29.363  639  834  481
+csikos                 29.355  640  566  616
+moanerette             29.282  641  333  867
+pbdoughboyy            29.254  642  964  412
+fairytaker             29.231  643  413  752
+dodododo               29.211  644  387  781
+jmsaunde               29.172  645  827  486
+malcoda                29.127  646  378  794
+toffzen                29.116  647  130 1393
+skryme                 28.995  648  383  786
+mckennaii              28.993  649  544  632
+possum                 28.975  650  999  397
+crom                   28.963  651  862  468
+rogsnak                28.947  652  515  655
+grayflower             28.851  653  110 1477
+shitmemes              28.821  654  840  480
+mansion                28.793  655  215 1130
+stylepro               28.772  656  601  599
+oshikia                28.644  657  372  805
+congressman            28.558  658  255 1025
+sadgrasan              28.499  659  700  552
+bftschaos              28.494  660  344  852
+roundrobin             28.299  661  115 1455
+dwarfalpaca            28.188  662  619  586
+miserium               28.059  663  915  430
+flameaway              28.005  664  889  447
+lastplaneout           27.802  665  285  960
+emsyzz                 27.776  666  772  510
+jarlyk2                27.754  667  362  823
+gamesmaster            27.640  668  934  422
+xash                   27.640  668  863  465
+bardharp               27.594  670  368  813
+gorgondantess          27.572  671  367  815
+jynri                  27.565  672  729  536
+ventricule             27.493  673 1243  312
+serafim                27.414  674  437  726
+chuggz                 27.368  675  532  641
+abeheron               27.345  676  937  420
+naow                   27.269  677  344  852
+poiuyt0418             27.208  678  328  876
+uglyjohn               27.142  679  518  652
+sugary                 27.119  680  427  738
+ruich                  27.045  681  905  438
+fireseal               26.953  682 1071  371
+salasann               26.939  683  543  633
+soaksdml               26.921  684  492  674
+jiveturtle             26.916  685 1160  346
+tuffenuff              26.858  686  878  456
+terandir               26.799  687  431  733
+walesroam              26.694  688  481  683
+plasmo                 26.675  689  978  408
+eucla                  26.610  690  343  854
+sicily                 26.426  691 1058  375
+experimilk             26.188  692  543  633
+wulfric                26.119  693  844  478
+toogi                  26.111  694  279  971
+buskinjo               26.111  695  332  871
+darksquall             26.097  696  791  502
+darkell                25.959  697  403  766
+bbangbbangyee          25.952  698  437  726
+hell                   25.941  699  629  583
+cmballin               25.937  700  740  530
+lordive                25.819  701  485  679
+rjaguar3               25.748  702  607  592
+isthmus                25.665  703  822  488
+hyperbowl              25.662  704  411  753
+vizrt                  25.559  705  828  485
+terrapin               25.529  706  583  606
+zibudo                 25.529  706  480  684
+molotove               25.482  708  728  537
+hikthur                25.477  709  303  926
+muffinsoup             25.354  710  741  529
+bellerephron           25.281  711  440  723
+blal                   25.251  712  312  910
+crimson                25.172  713  420  742
+soulstone              25.171  714  369  811
+suboptimal             25.161  715  270  990
+odri                   25.126  716  441  721
+minicreteconcrete      25.102  717  679  563
+averagebear            25.005  718  275  975
+deirdre                24.820  719  908  436
+dornbeast              24.802  720  200 1161
+canadiangator          24.802  721  373  800
+hiramatsu11            24.776  722  913  433
+madasgardian           24.768  723  670  567
+jdpr                   24.750  724  514  656
+willhelm               24.647  725  525  645
+brutalitops            24.643  726  378  794
+boben                  24.585  727  349  843
+wolfechu               24.552  728  914  431
+anfisbena              24.536  729  417  745
+kaze                   24.518  730  603  596
+fhqwhgads              24.512  731  272  989
+powerplayer            24.467  732  391  776
+papajoes               24.439  733  709  548
+vkvd                   24.296  734  230 1086
+dootley                24.185  735  362  823
+flammie80              24.170  736  140 1358
+confessionsofamasc     24.150  737  489  675
+dirian                 24.027  738  387  781
+inabayap               23.977  739  493  673
+puppy                  23.892  740  882  453
+lightveil              23.885  741  198 1182
+countdelapain          23.759  742  239 1063
+xelif                  23.759  742  160 1288
+kavron                 23.641  744  269  994
+shobalk                23.631  745  815  492
+porpoise               23.600  746  752  523
+tyvekgp                23.577  747  780  507
+inchmeat               23.494  748  200 1161
+unbalancedone          23.469  749  471  693
+eyesore                23.374  750  358  831
+s1rlancerlott          23.353  751  235 1073
+bearx12000             23.273  752  255 1025
+enish                  23.247  753  441  721
+speedruntech           23.115  754  556  623
+horvathsaigyou         22.986  755  497  669
+croanthos              22.824  756  536  638
+theelusivetrout        22.739  757  674  565
+dolemite99             22.607  758  286  956
+abraxos                22.542  759  373  800
+cab                    22.458  760  871  460
+stubblyhead            22.434  761  479  687
+hanfgeist              22.422  762  863  465
+scglazed               22.412  763  411  753
+esekla                 22.398  764  310  913
+shmesh                 22.312  765  363  822
+aeo                    22.282  766  250 1034
+quico                  22.249  767  514  656
+nem                    22.236  768  268  995
+mesmaeker13            22.223  769  771  511
+shayle                 22.187  770  235 1073
+qalnor                 22.181  771  235 1073
+korgen                 22.164  772  461  704
+nicksoapdish           22.050  773  375  799
+enigmoo                21.943  774  607  592
+subsume                21.893  775  110 1477
+nano                   21.866  776 1185  335
+realjohncenaofficial   21.864  777  863  465
+otterlegs              21.852  778  278  972
+firebatgyro            21.849  779  353  838
+comborobin             21.679  780  210 1141
+anklez                 21.669  781  834  481
+prospero               21.605  782  282  967
+tnyglim                21.587  783  448  715
+aolhelm                21.566  784  311  912
+luthiena               21.552  785  485  679
+cfbundy                21.542  786  807  496
+clumber                21.509  787  864  464
+tboon                  21.494  788  646  578
+axrath                 21.434  789  351  842
+nilsyn                 21.414  790  343  854
+kazastankas            21.382  791  800  498
+pedritolo              21.316  792  688  561
+lunatic                21.300  793  360  828
+acluon                 21.259  794  822  488
+rutigerpupkin          21.259  794  764  515
+dscm                   21.259  796  219 1125
+ruthinator             21.222  797  673  566
+firecrotchwizard       21.158  798  210 1141
+mtdw                   21.158  798  190 1193
+omndra                 21.069  800  307  919
+ck1fx                  21.067  801  313  907
+llamajah               21.057  802  505  665
+mrdesaussure           21.055  803  434  732
+bob                    21.027  804  342  859
+karia                  21.003  805  297  940
+heybub                 20.915  806  240 1056
+cwapface               20.913  807  200 1161
+valhalheru             20.867  808  215 1130
+gerblederp             20.851  809  309  915
+kingkept               20.851  809  265 1000
+mtlnx                  20.800  811  726  540
+billboardbarry         20.750  812  542  636
+daryashkoh             20.676  813  316  901
+callous                20.598  814  165 1268
+loserdude              20.529  815  259 1015
+sedstubbie             20.490  816  270  990
+raukatau               20.458  817 1023  386
+xnavy                  20.399  818 1107  361
+peterlawrence          20.369  819  439  725
+w0kki                  20.276  820  352  840
+hushed                 20.239  821  338  863
+temi                   20.134  822  377  797
+flooderbenga           20.098  823  373  800
+nikopol                20.096  824  523  648
+antisprigganmachine    20.010  825 1004  394
+rgaf                   19.946  826  259 1015
+tigercub               19.908  827  391  776
+bargorn                19.828  828  348  845
+greprep                19.828  828  510  660
+oneeyedjack            19.828  828  365  819
+ggurman                19.808  831  574  609
+zalenia                19.768  832  203 1159
+bed                    19.756  833  530  644
+gottschkopf            19.735  834  160 1288
+aturtledoesbite        19.693  835  403  766
+eminencefront          19.601  836  378  794
+sarmenti               19.579  837  248 1042
+wilsontg               19.507  838  845  477
+guppyfry               19.374  839  349  843
+braks                  19.358  840  462  703
+justin123              19.351  841  717  544
+docmaja                19.338  842  190 1193
+inus                   19.313  843  328  876
+jejorda2               19.279  844  225 1099
+denpaotoko             19.268  845  406  763
+westonodom             19.250  846  215 1130
+dizzyskin              19.233  847  471  693
+grisnicke              19.153  848  777  508
+osteo                  19.112  849  369  811
+fly                    19.105  850  240 1056
+zalanthas              19.105  850  407  759
+tensugalgo             19.098  852  250 1034
+greynaab               19.064  853  717  544
+kalaber                19.064  853  705  551
+jfunk                  19.047  855  372  805
+herbaltea              19.022  856  165 1268
+kave                   19.003  857  298  932
+unlimitedfusion        18.888  858  245 1048
+ereinion               18.861  859  563  619
+stringdemon            18.752  860  175 1239
+majestic               18.614  861  240 1056
+brandorkp              18.587  862  719  542
+foxfire                18.580  863  697  556
+spinaci                18.561  864  364  820
+taqueso                18.559  865  220 1113
+geoffrax               18.502  866  456  709
+glass                  18.460  867  348  845
+malificent             18.429  868  381  793
+elenore                18.397  869  220 1113
+bluepsion              18.382  870  710  547
+hornsilk               18.374  871  446  717
+mrdna                  18.368  872  382  790
+silverhawk             18.368  872  372  805
+nocturnal              18.281  874  140 1358
+marsu                  18.121  875  275  975
+heinrich               18.115  876  397  772
+rakdos                 18.115  876  383  786
+renifell               18.099  878  323  886
+azrac                  18.075  879  384  785
+tiddo                  18.037  880  521  650
+rekenzichi             18.020  881  409  755
+spsoon                 18.020  881  265 1000
+spaige                 17.942  883  258 1018
+senkrad                17.895  884  653  574
+goraeman               17.865  885  219 1125
+jtron                  17.793  886  170 1258
+iwugu                  17.770  887  418  744
+demosthentine          17.633  888  360  828
+arcvasti               17.558  889  125 1412
+razzle                 17.520  890  407  759
+cosmonaut              17.494  891  532  641
+nr616                  17.463  892  372  805
+tre                    17.463  892  265 1000
+tollymain              17.459  894  125 1412
+cerrus                 17.425  895  498  667
+hergaster              17.391  896  764  515
+baldghoti              17.360  897  486  678
+kinenseiburu           17.350  898  263 1008
+serber55               17.334  899  225 1099
+manul                  17.304  900  290  949
+reinor                 17.304  900  456  709
+sirboomalot            17.293  902  135 1382
+thug4l1f3              17.289  903  165 1268
+bonger                 17.251  904  651  575
+dylex                  17.166  905  709  548
+factorialite           17.156  906  771  511
+tolb                   17.101  907  642  582
+gavinh                 17.040  908  230 1086
+ibnalyakub             16.976  909   95 1556
+theoldman              16.945  910  253 1031
+calmdownmonkey         16.849  911  884  451
+tridux                 16.834  912  860  469
+dasrunzen              16.818  913  240 1056
+hunfridmar             16.813  914  352  840
+astaringelf            16.808  915  324  883
+morra                  16.808  915  333  867
+smajdalf               16.741  917  331  874
+evanescent             16.699  918  235 1073
+darkabushale           16.692  919  225 1099
+dorian                 16.653  920  294  943
+walrusking             16.549  921  160 1288
+mora                   16.498  922  248 1042
+copingsaw              16.464  923  892  445
+fearthechris           16.463  924  338  863
+neil                   16.433  925  190 1193
+christiangoth          16.426  926  180 1226
+kalagan                16.426  927  225 1099
+arglure                16.403  928  387  781
+galech                 16.362  929  299  930
+puffin                 16.362  929  265 1000
+mcmoop                 16.331  931  245 1048
+iodinin                16.324  932  225 1099
+violetgray             16.308  933  649  577
+ciphuk                 16.267  934  377  797
+pooooooops             16.267  934  265 1000
+tecani                 16.255  936  259 1015
+quazifuji              16.252  937   90 1582
+apogee                 16.213  938  347  848
+morbho                 16.213  938  388  779
+manyhoops              16.203  940  452  712
+personjerry            16.158  941  299  930
+noanimenolife          16.157  942  170 1258
+leeig                  16.151  943  195 1183
+sekko                  16.112  944  298  932
+philosophygeek         16.112  945  476  690
+freekh                 16.086  946  855  472
+rbl                    16.046  947  199 1176
+kellsagain             16.040  948  414  750
+nordron                16.040  948  367  815
+peloso                 16.040  948  478  688
+tlilden                16.040  948  451  713
+pisslord               16.021  952  935  421
+otabtabtab             15.957  953  327  881
+mcbry                  15.926  954  333  867
+frenchkiss             15.919  955  288  954
+kimtruck               15.919  955  280  970
+larett                 15.919  955  319  895
+mg7810                 15.919  955  270  990
+nonofthatk             15.919  955  480  684
+ghjk                   15.880  960  338  863
+theelss                15.862  961  358  831
+andrew                 15.843  962  689  560
+quinnr                 15.818  963  564  617
+jeeveli                15.783  964  140 1358
+wigglingferns          15.748  965  659  572
+dplusplus              15.710  966  314  904
+myelinatedaxon         15.709  967  417  745
+crazyape14             15.597  968  180 1226
+sagrath01              15.555  969  313  907
+nevereven              15.551  970  294  943
+bigjilm                15.500  971  165 1268
+sour                   15.500  971  304  924
+bel                    15.480  973  357  835
+rainwizard             15.442  974  215 1130
+triglyceri             15.356  975  286  956
+johnstein              15.348  976  651  575
+staplegun              15.341  977  228 1091
+twofelines             15.341  978  273  981
+trckry                 15.334  979  155 1309
+gitz                   15.325  980  407  759
+deathblob              15.324  981  254 1027
+horko                  15.292  982  105 1509
+vatarom                15.258  983  155 1309
+henryci                15.227  984  185 1208
+tkappleton             15.227  984  225 1099
+apparatus              15.132  986  225 1099
+quixotic               15.102  987  205 1149
+teenaku                15.086  988  125 1412
+getyeflask             15.082  989  342  859
+mastergouda            15.001  990  362  823
+wyrdjoy                14.980  991  522  649
+doot                   14.940  992  185 1208
+birdoprey              14.930  993   95 1556
+inarius                14.900  994  314  904
+b00bs                  14.852  995  125 1412
+regis                  14.845  996  180 1226
+slitherrr              14.845  996  248 1042
+gamgams                14.806  998  164 1281
+playitleo              14.784  999  254 1027
+zureal                 14.784  999  235 1073
+matticus               14.745 1001  179 1234
+barbarian              14.727 1002  318  896
+deifeln                14.727 1002  417  745
+freej                  14.727 1002  260 1014
+oak69                  14.727 1002  318  896
+vuolankoinen           14.727 1002  414  750
+evilashe               14.689 1007  347  848
+jerbear56              14.650 1008  431  733
+normantheintern        14.618 1009  282  967
+ekaitz                 14.571 1010  160 1288
+glaeka                 14.516 1011  115 1455
+ksh                    14.454 1012  310  913
+chaositek              14.405 1013  204 1155
+stormfighter           14.405 1013  240 1056
+destino                14.398 1015  264 1005
+stiamna                14.398 1015  263 1008
+therapyman             14.398 1015  240 1056
+wewlad1                14.398 1015  130 1393
+elekro                 14.387 1019  145 1339
+wafflepants            14.359 1020  323  886
+rustyjosh              14.281 1021  105 1509
+upsidedownchuck        14.268 1022 1082  366
+melum                  14.253 1023  130 1393
+davekosher             14.250 1024  215 1130
+nicoed                 14.243 1025  347  848
+absolutezero           14.194 1026  308  917
+plazmod                14.194 1027  263 1008
+rosewoodpip            14.173 1028  338  863
+xtyrian                14.172 1029  332  871
+winchcombe             14.158 1030  718  543
+qandnotyew             14.132 1031  422  740
+jmtistic               14.113 1032  761  517
+komi                   14.113 1032  956  415
+phindah                14.113 1032  728  537
+kws583                 14.011 1035  343  854
+p1v0                   14.011 1035  230 1086
+theonedm               14.011 1035  343  854
+tuppins                14.011 1035  289  952
+dyzzy                  13.972 1039  468  698
+kite                   13.972 1039  401  770
+mewnfare               13.968 1041  155 1309
+pichaelthompson        13.962 1042  235 1073
+gurmil                 13.925 1043  257 1023
+hawkpuma               13.916 1044  459  705
+bluemoon               13.845 1045  332  871
+stabbytabby            13.822 1046  468  698
+excel                  13.802 1047  328  876
+omosh                  13.802 1047  286  956
+luab                   13.761 1049  209 1147
+zdeegee                13.681 1050  145 1339
+zeros                  13.674 1051  362  823
+cynicus                13.652 1052  220 1113
+isvaffelmax            13.651 1053  160 1288
+crawlian               13.636 1054  160 1288
+consideredahorse       13.588 1055  169 1266
+tobeofuse              13.587 1056  115 1455
+nino                   13.560 1057  302  929
+patrickh               13.516 1058  135 1382
+qalnor2                13.515 1059  250 1034
+minion                 13.405 1060  284  961
+vale                   13.384 1061  208 1148
+face                   13.305 1062  200 1161
+billohreally           13.227 1063  382  790
+crazymagnet            13.205 1064  150 1323
+buffagor               13.188 1065  225 1099
+haifisch               13.090 1066  847  476
+mukku                  13.038 1067  180 1226
+sparkswifty            13.032 1068  278  972
+errol                  12.998 1069  215 1130
+thedoctor              12.993 1070   80 1644
+artstyrian             12.982 1071  372  805
+glitchraptor           12.943 1072  165 1268
+gargoyl                12.937 1073  225 1099
+jasper                 12.937 1073  185 1208
+rw                     12.842 1075  249 1038
+agrougrou              12.819 1076  496  670
+endorz                 12.819 1076  383  786
+healthycheekums        12.819 1076  353  838
+bolverk                12.799 1079  734  533
+witty                  12.769 1080  227 1097
+zaque                  12.769 1081  190 1193
+dion0                  12.764 1082  205 1149
+drcrypt                12.764 1082  273  981
+paps                   12.764 1082  317  899
+spif                   12.764 1082  195 1183
+wotkd0121004           12.763 1086  254 1027
+spinelegand            12.747 1087  175 1239
+scalarboson            12.697 1088  200 1161
+ibes                   12.691 1089  160 1288
+fixedtrash19586        12.592 1090  594  602
+almightybob            12.574 1091  547  627
+roxstarzbm             12.554 1092  210 1141
+dylgear                12.532 1093  304  924
+flyingpants            12.532 1093  328  876
+meatyocre              12.532 1093  373  800
+sekkong                12.532 1093  303  926
+tof                    12.532 1093  318  896
+rozman                 12.497 1098  298  932
+flsc                   12.490 1099  200 1161
+infinitebenevolence    12.456 1100  361  827
+rexxraptorr            12.456 1100  228 1091
+wheals                 12.438 1102  130 1393
+mygna                  12.360 1103  686  562
+xgamer4                12.327 1104  175 1239
+siregios               12.324 1105  342  859
+icys                   12.323 1106  130 1393
+asthiss                12.258 1107  250 1034
+kws584                 12.258 1107  387  781
+avack                  12.251 1109   90 1582
+lifeff                 12.203 1110  185 1208
+zleub                  12.203 1110  239 1063
+sandman25              12.135 1112  801  497
+kithin                 12.057 1113  100 1528
+fenrir042              12.048 1114  199 1176
+hubbles                12.009 1115  234 1081
+senshi                 12.009 1115  199 1176
+subscribetodemise      12.009 1115  258 1018
+yezarul                12.009 1115  174 1256
+cbag                   11.991 1119  100 1528
+aparent                11.953 1120  298  932
+twitchtvtwospaedes     11.953 1120  190 1193
+altwight               11.940 1122  170 1258
+jumanji                11.940 1122  165 1268
+eddoson                11.937 1124  421  741
+maximusg               11.937 1124  402  768
+himanshu               11.839 1126  220 1113
+xoff                   11.839 1126  130 1393
+tonberto               11.838 1128  125 1412
+crossborder            11.828 1129  150 1323
+moxian                 11.805 1130  120 1433
+nubinia                11.773 1131  150 1323
+enesbit                11.769 1132  175 1239
+rim                    11.733 1133  115 1455
+bluear                 11.728 1134   95 1556
+dweomer                11.726 1135  225 1099
+seyes                  11.711 1136  317  899
+spacecob               11.703 1137  283  964
+zeroruner              11.703 1137  393  773
+harriot                11.672 1139  120 1433
+oddly                  11.631 1140  185 1208
+oroborous              11.631 1140  243 1054
+ad3pt                  11.607 1142  284  961
+britaniac              11.607 1142  355  836
+mnloleg                11.574 1144  660  571
+deszczowiec            11.552 1145  145 1339
+goblinbomb             11.552 1145  293  945
+syneil                 11.552 1145  230 1086
+theclanless            11.552 1145  220 1113
+azzkikr                11.498 1149  195 1183
+quirk                  11.498 1149  190 1193
+rotorooter             11.498 1149  210 1141
+2017koboldassassin     11.497 1152  170 1258
+neuromancer            11.490 1153  115 1455
+axel                   11.482 1154  175 1239
+mudsilo                11.383 1155  257 1023
+eleison                11.248 1156  155 1309
+redvalkyrie            11.229 1157   80 1644
+thekill                11.225 1158  165 1268
+deofuta                11.202 1159  263 1008
+sar                    11.154 1160   50 1820
+happyhex               11.130 1161  150 1323
+graouh                 11.094 1162   55 1793
+bloodandfire           11.066 1163  429  735
+powderkeg              11.066 1163  323  886
+tignaoh                11.044 1165   85 1615
+three                  11.033 1166  238 1067
+johnl023               11.016 1167  150 1323
+dead                   11.011 1168  175 1239
+drock42                11.011 1168  283  964
+gazorpazorpfield       11.011 1168  184 1224
+ksb                    11.011 1168  180 1226
+mydosgodofbeginnings   11.011 1168  160 1288
+pemander               11.011 1168  308  917
+treasuregoblin         11.011 1168  199 1176
+turtleman12345         11.011 1168  258 1018
+kilakan                11.009 1176  144 1355
+gadfly                 10.996 1177  145 1339
+larmestyx              10.990 1178  115 1455
+msp                    10.956 1179  730  534
+snicker                10.938 1180  185 1208
+sophia                 10.915 1181  185 1208
+skivuli                10.898 1182  150 1323
+korthal                10.855 1183  185 1208
+mitigate               10.855 1183  180 1226
+jiminymac              10.783 1185  110 1477
+vsword                 10.779 1186  436  728
+fox255                 10.742 1187   75 1673
+tabithi                10.717 1188   40 1911
+biffmalibu             10.711 1189  371  810
+flyleaff               10.703 1190  305  922
+hito                   10.648 1191  273  981
+kraftydee              10.626 1192  115 1455
+bareth                 10.623 1193  264 1005
+cjo                    10.623 1193  323  886
+daluke                 10.623 1193  415  749
+dipablo                10.623 1193  360  828
+modestlyawesome        10.623 1193  323  886
+pajamin                10.623 1193  323  886
+peepeetipi             10.623 1193  284  961
+skippy                 10.623 1193  314  904
+narsil                 10.574 1201  200 1161
+xorpalm                10.573 1202  190 1193
+duelies                10.568 1203  140 1358
+eeldvark               10.568 1203  160 1288
+jaekking               10.568 1203  155 1309
+lucherd                10.568 1203  225 1099
+noshyer                10.568 1203  293  945
+rufus                  10.568 1203  274  978
+zygrunt                10.568 1203  145 1339
+oki                    10.403 1210  245 1048
+eli                    10.398 1211  273  981
+junb69                 10.398 1211  328  876
+masterjacques          10.397 1213  646  578
+nstar                  10.302 1214  215 1130
+0gre                   10.295 1215  175 1239
+fugaros                10.295 1215  244 1052
+halogen                10.295 1215  164 1281
+irrix                  10.295 1215  199 1176
+penster                10.295 1215  235 1073
+quarterback16          10.295 1215  155 1309
+vendryth               10.292 1221   90 1582
+remm                   10.246 1222  268  995
+cheburashka            10.200 1223  258 1018
+rache69                10.184 1224  428  736
+dris                   10.182 1225   30 2031
+pointless              10.108 1226   35 1975
+valarioth              10.091 1227  247 1047
+tulse                  10.066 1228  364  820
+friz                   10.061 1229  100 1528
+djinzorak              10.011 1230  120 1433
+koolguydude            10.011 1230  194 1190
+gainkiller              9.974 1232  297  940
+sajeffrey               9.974 1232  277  974
+xordid                  9.958 1234  287  955
+splatman                9.920 1235  110 1477
+erg                     9.828 1236  115 1455
+aesoa                   9.817 1237  150 1323
+autgah                  9.817 1237  199 1176
+hanny                   9.783 1239  110 1477
+angelasmythe            9.780 1240  175 1239
+nemr118                 9.760 1241  340  862
+earthguest              9.746 1242  120 1433
+foxy                    9.746 1242  180 1226
+hotbaconsauce           9.746 1242  160 1288
+knex                    9.746 1242  140 1358
+lotharnight             9.746 1242  175 1239
+shmeve                  9.746 1242  165 1268
+psycow14                9.705 1248  140 1358
+sankara                 9.705 1248  155 1309
+typeaskee               9.705 1248  190 1193
+kgb                     9.703 1251  193 1192
+astralcataclysm         9.702 1252   95 1556
+kristoblxynda           9.648 1253  164 1281
+boodz                   9.644 1254  185 1208
+felipeswartz            9.644 1254  298  932
+frank                   9.644 1254  155 1309
+greatseizure            9.644 1254  140 1358
+kakashihatake           9.644 1254  140 1358
+matyilona               9.633 1259  120 1433
+crocosmia               9.623 1260  517  653
+wabbawook               9.589 1261  100 1528
+styxcanada              9.585 1262  215 1130
+pib                     9.568 1263  273  981
+mlkhall                 9.566 1264  125 1412
+sslrranma               9.566 1265  150 1323
+hollowman               9.550 1266  243 1054
+stendarr                9.544 1267   85 1615
+elanmorin               9.514 1268  787  504
+surface                 9.492 1269   55 1793
+quasi                   9.477 1270   90 1582
+f1l1n                   9.461 1271   55 1793
+blackbrew               9.397 1272  572  612
+gatora                  9.354 1273  110 1477
+mekire                  9.303 1274  227 1097
+gorbigon                9.303 1275  195 1183
+icysystem               9.302 1276  298  932
+gukra                   9.263 1277  130 1393
+bolko                   9.246 1278  175 1239
+shklvsk                 9.200 1279  145 1339
+tape                    9.200 1279  267  999
+alfred1011              9.103 1281  120 1433
+beardradial             9.103 1281  169 1266
+dragonmaster1818        9.103 1281  249 1038
+kenshiro                9.103 1281  164 1281
+lorywindrunner          9.103 1281  216 1129
+mahakala                9.103 1281  234 1081
+mamonaku                9.103 1281  194 1190
+theguruofreason         9.103 1281  140 1358
+math4jedi               9.102 1289  140 1358
+sorrytornado            9.102 1289  170 1258
+charan                  9.091 1291  178 1237
+caycecop                9.030 1292  135 1382
+valuedmember            9.030 1292  200 1161
+salmon                  9.007 1294  100 1528
+downhaven               8.996 1295  160 1288
+amianthus               8.990 1296  244 1052
+armakuni                8.990 1296  205 1149
+rubbertoe               8.990 1296  140 1358
+rushputin               8.990 1296   95 1556
+bammboo                 8.986 1300   40 1911
+itcrowd                 8.986 1300   40 1911
+maggai                  8.986 1300   50 1820
+wendy                   8.958 1303  252 1033
+name63                  8.938 1304  160 1288
+elnono                  8.914 1305   70 1707
+incomingsplat           8.914 1305   15 2219
+chikkuri                8.898 1307  150 1323
+tid                     8.895 1308  179 1234
+ajaj                    8.871 1309  358  831
+asanbosam               8.871 1309  323  886
+brakattak               8.871 1309  330  875
+hildebrand              8.871 1309  270  990
+killdudes               8.871 1309  298  932
+steakbbq                8.871 1309  343  854
+zigma                   8.871 1309  309  915
+bande                   8.815 1316  220 1113
+kaikaun                 8.815 1316  220 1113
+mollymolluskus          8.815 1316  185 1208
+pfcuttle                8.815 1316  298  932
+pitch                   8.815 1316  220 1113
+wingnut                 8.815 1316  274  978
+zaweri                  8.815 1316  175 1239
+mumbling                8.742 1323  165 1268
+frankhovis              8.729 1324   65 1737
+garrluk                 8.705 1325  120 1433
+humanstwo               8.676 1326  100 1528
+maniacrov               8.676 1326  130 1393
+lowfats                 8.671 1328  125 1412
+benvolia8               8.660 1329  190 1193
+drpain                  8.660 1329  219 1125
+elsewire                8.660 1329  274  978
+iflex                   8.660 1329  205 1149
+krazykat                8.660 1329  295  942
+magenar                 8.660 1329  313  907
+morrissey               8.660 1329  175 1239
+mossagatemaggot         8.660 1329  220 1113
+noxcultor               8.660 1329  249 1038
+shornthesheep           8.660 1329  215 1130
+ystael                  8.660 1329  160 1288
+dhobyghaut              8.644 1340  155 1309
+kiwiofadowableness      8.633 1341   80 1644
+cereshysteria           8.564 1342  140 1358
+aa6644                  8.552 1343  130 1393
+torious                 8.552 1343  140 1358
+hilariousdeathartist    8.542 1345   75 1673
+spelunker               8.521 1346  145 1339
+jackman447              8.514 1347  110 1477
+duh                     8.510 1348  119 1453
+dickchan                8.495 1349  220 1113
+halgar                  8.494 1350  195 1183
+duo                     8.471 1351   70 1707
+sirkrieger              8.450 1352  140 1358
+markarz                 8.440 1353  105 1509
+galeswift               8.397 1354  125 1412
+duallyohooly            8.379 1355  135 1382
+damiac                  8.379 1356  145 1339
+driftw00d               8.379 1356   90 1582
+mohan                   8.379 1356  110 1477
+prad                    8.379 1356  125 1412
+tollergames             8.379 1356  205 1149
+benya                   8.344 1361  105 1509
+cecillian               8.338 1362  228 1091
+morlute                 8.338 1362  115 1455
+skeff                   8.268 1364  145 1339
+alarkh                  8.186 1365  110 1477
+psychodad               8.173 1366   60 1772
+9umah                   8.162 1367   70 1707
+soupercrawl             8.162 1367  115 1455
+turnerjer               8.162 1367   95 1556
+rem                     8.091 1370  552  625
+anon                    8.030 1371  105 1509
+bootles                 8.007 1372   70 1707
+bunnehwyld              7.998 1373  165 1268
+loblaw                  7.998 1373  140 1358
+hailrake                7.990 1375  238 1067
+moopish                 7.990 1375   95 1556
+mrflay                  7.990 1375  183 1225
+nezrel                  7.961 1378  100 1528
+miragecloak             7.925 1379  140 1358
+numor                   7.909 1380  204 1155
+ehfwnrgkwk              7.895 1381  115 1455
+excalabu                7.888 1382  115 1455
+frankthetank            7.860 1383   75 1673
+centipede               7.837 1384  180 1226
+cutslo                  7.837 1384  175 1239
+kelthazard              7.837 1384  125 1412
+thomus                  7.837 1384  110 1477
+gryphonrising           7.836 1388  150 1323
+shadowbow19             7.836 1388   95 1556
+ajbrad                  7.815 1390  164 1281
+joejoepie               7.815 1390  200 1161
+thelaststarmaker        7.815 1390  139 1380
+glidergun               7.797 1393  218 1128
+meowmix                 7.797 1393  264 1005
+bairyn                  7.796 1395  145 1339
+sorbius                 7.742 1396   65 1737
+cpiazzola               7.724 1397   75 1673
+talauna                 7.724 1397   75 1673
+amnesiac                7.674 1399   85 1615
+amplicon                7.660 1400  213 1140
+ant                     7.660 1400  320  894
+miron                   7.660 1400  204 1155
+sayou                   7.660 1400  200 1161
+socksu                  7.660 1400  312  910
+darthinebriated         7.658 1405  105 1509
+pinechild               7.658 1405   90 1582
+mikehunt                7.654 1407   40 1911
+1158511                 7.645 1408  228 1091
+bmwyatt74               7.622 1409  115 1455
+intern                  7.622 1409  155 1309
+thehza                  7.622 1409  110 1477
+teko                    7.602 1412  120 1433
+us17                    7.581 1413   90 1582
+tilp                    7.552 1414  120 1433
+bagheara                7.550 1415  175 1239
+ikeelu2                 7.550 1415  135 1382
+kloppie                 7.550 1415  125 1412
+nico3ck                 7.550 1415  110 1477
+roguenasty              7.550 1415  160 1288
+scotcheyed              7.550 1415  160 1288
+hanibal                 7.510 1421  185 1208
+knaveightt              7.510 1421  204 1155
+rpophessagr             7.510 1421  170 1258
+oicu812                 7.477 1424  140 1358
+rongonathon             7.467 1425  195 1183
+goblin1989              7.440 1426   70 1707
+sergey                  7.440 1426   95 1556
+xoai                    7.395 1428  185 1208
+grumblor                7.371 1429  110 1477
+goyle                   7.355 1430  268  995
+kraedy                  7.355 1430  228 1091
+prkay                   7.355 1430  307  919
+sysice                  7.355 1430   65 1737
+turnburgler             7.355 1430  190 1193
+rbrandon                7.349 1435   40 1911
+smocul                  7.349 1435   90 1582
+acoo                    7.338 1437  238 1067
+cragspyder              7.338 1437  134 1392
+nya                     7.338 1437  139 1380
+travisthelouse          7.338 1437  130 1393
+spiff                   7.285 1441  145 1339
+gribnar                 7.185 1442   50 1820
+mortrax                 7.073 1443   85 1615
+wesley                  7.073 1443  110 1477
+ogrelordshrek           7.069 1445  129 1410
+scumlordstudio          7.041 1446  130 1393
+klwizard                7.035 1447  150 1323
+shukka                  7.033 1448  140 1358
+olourkin                6.915 1449  307  919
+sedition                6.915 1449  366  817
+vible                   6.915 1449  262 1013
+avis                    6.907 1452  175 1239
+crocus                  6.907 1452  210 1141
+cryne                   6.907 1452  100 1528
+dalwyn                  6.907 1452  155 1309
+ec653                   6.907 1452  254 1027
+feihao                  6.907 1452  190 1193
+hobsgoblin              6.907 1452  200 1161
+ios                     6.907 1452  234 1081
+muningris               6.907 1452  200 1161
+ohmi                    6.907 1452  200 1161
+oliv1008                6.907 1452  130 1393
+olnoname                6.907 1452  165 1268
+raszama                 6.907 1452  160 1288
+scottb                  6.907 1452  268  995
+zazen                   6.907 1452  248 1042
+sprinter                6.836 1467   60 1772
+antares                 6.797 1468  185 1208
+allen                   6.796 1469   90 1582
+kcphoenix               6.768 1470   75 1673
+onursoysal              6.763 1471   95 1556
+eitherlupin             6.649 1472  140 1358
+thebeefsupreme          6.632 1473   90 1582
+darkins                 6.604 1474  100 1528
+mfiore51                6.547 1475  120 1433
+dirtsage                6.532 1476  105 1509
+slavik159               6.532 1476   75 1673
+gandalfino              6.531 1478  120 1433
+jentry                  6.531 1478   55 1793
+naphistim               6.531 1478   50 1820
+dxb338                  6.510 1481   75 1673
+iskender                6.510 1481   85 1615
+gsbirdie                6.467 1483  144 1355
+paul                    6.467 1483  150 1323
+achryn                  6.409 1485  105 1509
+coal                    6.409 1485  100 1528
+pyrite                  6.409 1485  120 1433
+archon                  6.395 1488   80 1644
+frod                    6.395 1488  115 1455
+mrbulldops              6.357 1490  115 1455
+boomshaker              6.355 1491  273  981
+clownkicker             6.355 1491  155 1309
+manteiga                6.355 1491  188 1207
+sharplydressedman       6.355 1491   90 1582
+croases                 6.349 1495    0 2610
+innate                  6.349 1495   15 2219
+kimnosuk                6.349 1495   10 2324
+xhc                     6.320 1498  140 1358
+acriphony               6.297 1499  145 1339
+trickynixon             6.296 1500  100 1528
+kook                    6.253 1501  105 1509
+agentgt                 6.247 1502   65 1737
+bananaglory             6.247 1502  110 1477
+mirek                   6.247 1502   35 1975
+b0tl3ss                 6.245 1505  100 1528
+edgeworth               6.245 1505  120 1433
+francisdrake            6.202 1507  100 1528
+gigafire                6.201 1508   30 2031
+tsingdao                6.185 1509  145 1339
+kusayu                  6.178 1510  110 1477
+letownia                6.178 1510   65 1737
+krazyhades              6.161 1512  263 1008
+sirtrogo                6.145 1513   70 1707
+hummusdude              6.110 1514   75 1673
+azzok                   6.089 1515  130 1393
+chermit                 6.073 1516   65 1737
+edmond                  6.073 1516  100 1528
+mblaurens               6.073 1516   60 1772
+pappabj0rn              6.073 1516   50 1820
+wiilli                  6.073 1516   65 1737
+lekart                  6.046 1521   85 1615
+bgiannan                5.998 1522   80 1644
+potionseller            5.915 1523  282  967
+strictlyclitly          5.915 1523  202 1160
+drcatpants              5.907 1525  239 1063
+pinata                  5.907 1525  150 1323
+sambair                 5.907 1525  238 1067
+mewnmewn                5.880 1528   70 1707
+wendigo                 5.880 1528   60 1772
+particleface            5.804 1530   50 1820
+keltonhicks             5.729 1531  150 1323
+mezee                   5.714 1532  140 1358
+mottsauce               5.714 1532  185 1208
+orayn                   5.714 1532  120 1433
+owlicus                 5.714 1532  145 1339
+remliel                 5.714 1532  174 1256
+monokles                5.693 1537  130 1393
+beebee                  5.642 1538  175 1239
+dragoran                5.642 1538  110 1477
+lns416                  5.642 1538  190 1193
+mole0619                5.642 1538  175 1239
+patate                  5.642 1538  170 1258
+timidly                 5.642 1538  170 1258
+vizamar                 5.642 1538   70 1707
+alphaomegastrife        5.602 1545  228 1091
+biasface                5.602 1545  110 1477
+bluepsionsoa            5.602 1545  164 1281
+celandrion              5.602 1545  283  964
+chernop                 5.602 1545  239 1063
+cuteimoen               5.602 1545  100 1528
+datgum                  5.602 1545  273  981
+handsome                5.602 1545  189 1205
+heskey                  5.602 1545  125 1412
+hmmm                    5.602 1545  110 1477
+khila                   5.602 1545  160 1288
+klosterheim             5.602 1545   65 1737
+mellonil                5.602 1545  258 1018
+melvik                  5.602 1545   80 1644
+moocowmoocow            5.602 1545   85 1615
+msparkdrrizzle          5.602 1545  110 1477
+poirepourri             5.602 1545  185 1208
+probably                5.602 1545   90 1582
+suduhmizer              5.602 1545  238 1067
+torax                   5.602 1545  120 1433
+whitewater              5.602 1545  119 1453
+magnet0r                5.598 1566  100 1528
+blkmarble               5.555 1567   30 2031
+bluetommy2              5.547 1568   95 1556
+erch1                   5.532 1569  165 1268
+harpbard                5.532 1569   75 1673
+icynumb                 5.532 1569  110 1477
+maelstrom               5.531 1572   75 1673
+beal                    5.463 1573   80 1644
+im12btw                 5.463 1573   95 1556
+jaruokki                5.463 1573   40 1911
+maxinamilian            5.463 1573   90 1582
+justnoob                5.409 1577   40 1911
+laz                     5.409 1577   75 1673
+nameroc                 5.339 1579  120 1433
+dionysus                5.296 1580   40 1911
+johnstargazer           5.288 1581  130 1393
+laceratedsky            5.288 1581   80 1644
+orcishtimmy             5.248 1583  100 1528
+newcomer                5.245 1584  135 1382
+stocazola               5.242 1585  105 1509
+joaoluisp               5.170 1586  100 1528
+ballsack                5.103 1587   90 1582
+elend                   5.103 1587  110 1477
+heef                    5.103 1587   30 2031
+insan                   5.103 1587   30 2031
+kirbodin                5.103 1587   20 2156
+leviathanjh             5.103 1587   60 1772
+quincunx                5.103 1587   30 2031
+rawrsnax                5.103 1587   45 1865
+sneeker134              5.103 1587   40 1911
+terrin                  5.103 1587   35 1975
+straycat                5.051 1597  145 1339
+goliath                 4.948 1598   50 1820
+ajotti                  4.896 1599   65 1737
+fernweh                 4.896 1599  110 1477
+amalloy                 4.880 1601   45 1865
+coffeedork              4.880 1601   45 1865
+reborn                  4.880 1601   40 1911
+ximxim                  4.849 1604   15 2219
+yeoj                    4.811 1605   40 1911
+eeee                    4.805 1606   45 1865
+chickenpie              4.764 1607   95 1556
+koldun                  4.714 1608  210 1141
+brendand                4.693 1609   90 1582
+ketharn                 4.661 1610   70 1707
+plsesad                 4.661 1610  110 1477
+revguard                4.661 1610   45 1865
+smeego                  4.661 1610   75 1673
+sbamiri                 4.646 1614  160 1288
+altessia                4.642 1615   90 1582
+kasofa                  4.642 1615  125 1412
+utis                    4.642 1615   95 1556
+smartscrazy             4.639 1618   85 1615
+amentoraz               4.602 1619  120 1433
+ark                     4.602 1619   70 1707
+cciulla                 4.602 1619  179 1234
+craggadee               4.602 1619  164 1281
+dadoka                  4.602 1619  125 1412
+deepdeath               4.602 1619  125 1412
+dionized                4.602 1619   80 1644
+dva13                   4.602 1619  130 1393
+esteth                  4.602 1619   85 1615
+frensswa                4.602 1619  224 1112
+grimm                   4.602 1619  189 1205
+hood                    4.602 1619  110 1477
+kolkov                  4.602 1619   65 1737
+meekrat                 4.602 1619   75 1673
+miculber                4.602 1619  238 1067
+minorbread              4.602 1619  120 1433
+mnemonic                4.602 1619  149 1338
+norfair                 4.602 1619  233 1085
+sikrin                  4.602 1619  115 1455
+smazza                  4.602 1619   75 1673
+the3ase                 4.602 1619   85 1615
+thefinalone             4.602 1619   80 1644
+toaanf4857              4.602 1619  124 1431
+zchris13                4.602 1619  253 1031
+znke                    4.602 1619  160 1288
+appiemonkey             4.567 1644  115 1455
+bodyoftext              4.501 1645  110 1477
+frappeman               4.501 1645   90 1582
+kuzya                   4.501 1645   95 1556
+maurog                  4.501 1645   65 1737
+lucin                   4.463 1649   35 1975
+airetmc                 4.449 1650   60 1772
+jirkfacejones           4.449 1650  100 1528
+mayonce                 4.449 1650   90 1582
+werevolvo               4.449 1650   80 1644
+xraymikek               4.449 1650  110 1477
+bli                     4.409 1655  105 1509
+lordlovebone            4.409 1655  200 1161
+mh2010                  4.409 1655   90 1582
+ssteam                  4.409 1655  178 1237
+badtoken                4.388 1659   45 1865
+dasmau89                4.388 1659   50 1820
+lumpybacca              4.388 1659   65 1737
+theprince               4.388 1659   80 1644
+uniporpoise             4.388 1659   80 1644
+enroth                  4.367 1664   70 1707
+mulkerokala             4.339 1665   95 1556
+0hopark                 4.337 1666  135 1382
+banach                  4.337 1666   85 1615
+beigtais                4.337 1666   90 1582
+calister                4.337 1666  140 1358
+duskembrace             4.337 1666  115 1455
+faca                    4.337 1666   95 1556
+fili                    4.337 1666   50 1820
+fyery                   4.337 1666   70 1707
+ibeshadow               4.337 1666  115 1455
+myxocpahck              4.337 1666   85 1615
+n1ck                    4.337 1666   85 1615
+sylarsrden              4.337 1666   85 1615
+typee                   4.337 1666  155 1309
+guntaas                 4.293 1679   50 1820
+jess                    4.293 1679   95 1556
+ryosujin                4.293 1679   55 1793
+weirdsound              4.293 1679   60 1772
+rose9                   4.282 1683   80 1644
+cheezewheel             4.270 1684   95 1556
+draanakar               4.242 1685   65 1737
+dwachs                  4.214 1686  135 1382
+heimdallr               4.214 1686   85 1615
+iwillforgetthis         4.214 1686  115 1455
+kaybs                   4.214 1686   50 1820
+rule42                  4.214 1686   95 1556
+yrmmerkstave            4.214 1686   80 1644
+regularjogger           4.173 1692   20 2156
+sagitran                4.173 1692   90 1582
+theemperora             4.173 1692   85 1615
+bza                     4.170 1695   75 1673
+dhuckle                 4.103 1696   25 2099
+dunwichhorror           4.103 1696   45 1865
+duxorbis                4.103 1696    5 2450
+kisielow                4.103 1696   45 1865
+lauthentik              4.103 1696   30 2031
+mcpwn                   4.103 1696    5 2450
+qtip2                   4.103 1696   15 2219
+sanka                   4.103 1696   10 2324
+stbrolaf                4.103 1696    5 2450
+zachydoo                4.103 1696   35 1975
+zhenya24pyc             4.103 1696   25 2099
+tschems                 4.058 1707  100 1528
+schorsch312             4.051 1708   75 1673
+sevenseve               4.051 1708   70 1707
+yalue                   4.051 1708   35 1975
+deathtrap2010           3.983 1711   25 2099
+cinornu                 3.977 1712   75 1673
+wazuzu                  3.977 1712  105 1509
+docflam                 3.948 1714   35 1975
+godling                 3.946 1715   85 1615
+sooper                  3.661 1716   35 1975
+agran                   3.571 1717  125 1412
+ili                     3.501 1718   55 1793
+malkron                 3.501 1718   80 1644
+thegamingcockatoo       3.501 1718   65 1737
+vk65535                 3.501 1718   50 1820
+orionpirate             3.499 1722  145 1339
+spacenar                3.499 1722  125 1412
+hypereia                3.449 1724   55 1793
+aldo                    3.409 1725   90 1582
+flashguardian13         3.409 1725  100 1528
+gestalt                 3.409 1725   70 1707
+hairmachine             3.409 1725   75 1673
+mobydollar              3.409 1725   85 1615
+prakerore               3.409 1725   40 1911
+promi                   3.409 1725  124 1431
+tubbrt                  3.409 1725  129 1410
+voxxskies               3.409 1725   50 1820
+zarath9                 3.409 1725   80 1644
+veiltonx                3.389 1735   65 1737
+bon2016                 3.388 1736   45 1865
+unseenchild             3.388 1736   80 1644
+remaster19              3.380 1738   60 1772
+sonya                   3.380 1738   45 1865
+aaron                   3.374 1740  125 1412
+doroboneko              3.374 1740  130 1393
+blazinghand             3.337 1742  110 1477
+colliwobble             3.337 1742   90 1582
+dusty                   3.337 1742   85 1615
+ghwc                    3.337 1742  135 1382
+jeedimahstah            3.337 1742  100 1528
+kavaar                  3.337 1742   80 1644
+pelerin                 3.337 1742   55 1793
+rulib                   3.337 1742   70 1707
+torrenera               3.337 1742   75 1673
+tylertfb                3.337 1742  105 1509
+gamet                   3.293 1752   20 2156
+hawkwood                3.293 1752   40 1911
+kumo                    3.293 1752   30 2031
+jumperg                 3.262 1755   80 1644
+macandcheese            3.262 1755   90 1582
+eragonby                3.214 1757   30 2031
+fnmb                    3.214 1757   35 1975
+gonk                    3.214 1757   65 1737
+yarijo                  3.214 1757   70 1707
+beuller                 3.195 1761   95 1556
+durgin                  3.195 1761   55 1793
+felix                   3.195 1761   55 1793
+gorpus                  3.195 1761  165 1268
+gouda                   3.195 1761   40 1911
+imwumpus                3.195 1761   55 1793
+lafayette               3.195 1761   20 2156
+morik                   3.195 1761   65 1737
+neisus                  3.195 1761   65 1737
+spacegravy              3.195 1761   80 1644
+zubeida                 3.195 1761   55 1793
+amnicolus               3.143 1772   95 1556
+bobbobbob               3.143 1772   65 1737
+chickeneater            3.143 1772   90 1582
+drofenvy                3.143 1772   65 1737
+flyingsquare            3.143 1772   85 1615
+gilihad                 3.143 1772   85 1615
+hortensia               3.143 1772   90 1582
+quellanthyde            3.143 1772  110 1477
+rcreutzb                3.143 1772   55 1793
+robertsmithofthecure    3.143 1772  125 1412
+rudyrod                 3.143 1772  110 1477
+tetazoo                 3.143 1772   90 1582
+wildsam                 3.143 1772   50 1820
+artanisace              3.101 1785   85 1615
+buttholecancer          3.101 1785   45 1865
+amaryllis               3.058 1787   35 1975
+v20                     2.977 1788   20 2156
+ashar                   2.908 1789   40 1911
+bazza123                2.908 1789   40 1911
+captainscraps           2.908 1789   60 1772
+danteric                2.908 1789   75 1673
+darko                   2.908 1789   25 2099
+dobbymoodge             2.908 1789   30 2031
+drt                     2.908 1789   50 1820
+dungeonbabyverysmall    2.908 1789   30 2031
+eagleeye                2.908 1789   45 1865
+gornakius               2.908 1789   65 1737
+heth                    2.908 1789   75 1673
+highlander2112          2.908 1789   50 1820
+jarielcorvus            2.908 1789  105 1509
+koelner                 2.908 1789   15 2219
+nobrepepe               2.908 1789   55 1793
+pigah                   2.908 1789   80 1644
+qucean                  2.908 1789   60 1772
+rumhand                 2.908 1789  105 1509
+sagittarian             2.908 1789   90 1582
+sanvar                  2.908 1789   75 1673
+sau7503                 2.908 1789   45 1865
+sirfunk                 2.908 1789   70 1707
+smoqueed                2.908 1789   15 2219
+starbutterfly           2.908 1789   85 1615
+xorcon                  2.908 1789   30 2031
+apostate                2.753 1814   50 1820
+mavenl                  2.753 1814   70 1707
+misterpig               2.753 1814  105 1509
+piyake                  2.753 1814   50 1820
+qqqbard                 2.753 1814   50 1820
+yackwabbit              2.753 1814   40 1911
+zoopyjoobles            2.753 1814   65 1737
+acadians                2.305 1821  105 1509
+crypto177               2.305 1821  110 1477
+edricgarran             2.305 1821   80 1644
+hoohaw                  2.305 1821  100 1528
+hoot                    2.305 1821   50 1820
+jujuben                 2.305 1821  120 1433
+keetraxx                2.305 1821   25 2099
+maydaydemise            2.305 1821   30 2031
+metacosm                2.305 1821   35 1975
+mostballerwizard        2.305 1821   75 1673
+munq                    2.305 1821   55 1793
+raph                    2.305 1821   70 1707
+robertstho              2.305 1821  155 1309
+teryn                   2.305 1821   90 1582
+tognito                 2.305 1821   65 1737
+tyrion                  2.305 1821  110 1477
+vikingkong              2.305 1821   40 1911
+wellarmedpenguin        2.305 1821   95 1556
+pyth0n                  2.268 1839   50 1820
+corrust                 2.262 1840   70 1707
+dysrexia                2.262 1840   60 1772
+zardo                   2.262 1840   50 1820
+ailesa                  2.195 1843   15 2219
+chudej                  2.195 1843   15 2219
+codwoman                2.195 1843   40 1911
+dumpsterbaby            2.195 1843   45 1865
+gartch5                 2.195 1843   10 2324
+hideitinnarnia          2.195 1843   10 2324
+lestiji                 2.195 1843   30 2031
+neetthing               2.195 1843   15 2219
+puppums                 2.195 1843   15 2219
+roy                     2.195 1843   25 2099
+tenda                   2.195 1843   40 1911
+volly                   2.195 1843   20 2156
+xight                   2.195 1843   30 2031
+zahlanzi                2.195 1843   20 2156
+dolanko                 2.193 1857   45 1865
+gameover                2.193 1857   70 1707
+kylel2345               2.193 1857   50 1820
+morosan                 2.193 1857  120 1433
+ronham13                2.193 1857   80 1644
+srs                     2.193 1857   40 1911
+voda                    2.193 1857   35 1975
+baezot                  2.143 1864   50 1820
+earthrocker             2.143 1864   85 1615
+flapstick               2.143 1864   75 1673
+goodboy                 2.143 1864   40 1911
+graemelion              2.143 1864   75 1673
+grikel                  2.143 1864   70 1707
+ikon                    2.143 1864   65 1737
+shepard                 2.143 1864   90 1582
+skg3223                 2.143 1864   25 2099
+stebl                   2.143 1864   85 1615
+jimmahdean              2.075 1874   50 1820
+knobcreek               2.075 1874   85 1615
+threedollarbill         2.075 1874   50 1820
+vark                    2.075 1874   50 1820
+zarni                   2.075 1874   35 1975
+ber                     2.068 1879   95 1556
+burzz                   2.068 1879   65 1737
+dordal                  2.068 1879   30 2031
+misternyarlathotep      2.068 1879   60 1772
+sighowe                 2.068 1879   95 1556
+solomonrf               2.068 1879   80 1644
+tomas                   2.068 1879   90 1582
+troubledarcy            2.068 1879   35 1975
+wardy1                  2.068 1879   85 1615
+abstracthop             1.908 1888    5 2450
+alpinistek              1.908 1888   10 2324
+anele                   1.908 1888   10 2324
+archego                 1.908 1888    5 2450
+arcticsniper            1.908 1888    5 2450
+ashiichan               1.908 1888   15 2219
+azazapper               1.908 1888   15 2219
+bond674                 1.908 1888   35 1975
+brandobin               1.908 1888   30 2031
+broken26                1.908 1888   35 1975
+caillou112              1.908 1888   45 1865
+cle                     1.908 1888   15 2219
+darkdramon              1.908 1888   15 2219
+dartaniar               1.908 1888   30 2031
+dfrag                   1.908 1888   65 1737
+ditheos                 1.908 1888    5 2450
+elgiloy                 1.908 1888   20 2156
+eurtek                  1.908 1888   50 1820
+gaenar                  1.908 1888   25 2099
+gobu                    1.908 1888   30 2031
+lazylenya               1.908 1888   35 1975
+mattshark               1.908 1888   30 2031
+mcgeekster              1.908 1888   55 1793
+mecrutio                1.908 1888   25 2099
+n00b                    1.908 1888   25 2099
+nausicaa                1.908 1888   25 2099
+pchancharl              1.908 1888   35 1975
+prikolics               1.908 1888   15 2219
+rahit                   1.908 1888   25 2099
+rbluntz                 1.908 1888   20 2156
+roknel                  1.908 1888    5 2450
+senseofzot              1.908 1888   20 2156
+senya                   1.908 1888   30 2031
+serioussanchez          1.908 1888   15 2219
+shamrock                1.908 1888   10 2324
+skyfox997               1.908 1888   15 2219
+spe3d0                  1.908 1888    5 2450
+spennet                 1.908 1888   10 2324
+squonk                  1.908 1888    5 2450
+velawesomeraptors       1.908 1888    5 2450
+wellsdb                 1.908 1888   10 2324
+darthidiots             1.753 1929    0 2610
+gracefully              1.753 1929   35 1975
+jiik                    1.753 1929   45 1865
+lootfiend               1.753 1929   25 2099
+maloy8920               1.753 1929    0 2610
+simples                 1.753 1929   20 2156
+spanner                 1.753 1929    0 2610
+stump                   1.753 1929   40 1911
+theanchor75             1.753 1929   40 1911
+anaetherus              1.305 1938   40 1911
+angamoth                1.305 1938   40 1911
+baebochu                1.305 1938   35 1975
+dasmos                  1.305 1938   80 1644
+erkek                   1.305 1938   40 1911
+gimp                    1.305 1938   30 2031
+grithok                 1.305 1938   30 2031
+hook                    1.305 1938   70 1707
+kawa                    1.305 1938   40 1911
+knightengale            1.305 1938   40 1911
+lumpers                 1.305 1938   65 1737
+sexytroll44             1.305 1938   45 1865
+aresram                 1.193 1950   50 1820
+asymptus                1.193 1950   50 1820
+exile                   1.193 1950   45 1865
+pumaman                 1.193 1950   35 1975
+wensley                 1.193 1950   35 1975
+anerion                 1.075 1955   45 1865
+brandie                 1.075 1955   35 1975
+kgusta                  1.075 1955  105 1509
+mhershberg              1.075 1955   45 1865
+mikeschnier             1.075 1955   50 1820
+powerofkimchi           1.075 1955   20 2156
+taharka                 1.075 1955   45 1865
+temoid                  1.075 1955   45 1865
+bdfisher                1.068 1963   80 1644
+deerforce               1.068 1963   40 1911
+deskach                 1.068 1963   45 1865
+jjblue                  1.068 1963   50 1820
+nerdbeard               1.068 1963   30 2031
+peep                    1.068 1963   55 1793
+shargos                 1.068 1963   45 1865
+tuvky                   1.068 1963   50 1820
+10111993                1.000 1971   15 2219
+aethirshero             1.000 1971   45 1865
+afd                     1.000 1971   45 1865
+akaushi                 1.000 1971   60 1772
+ambioz                  1.000 1971   20 2156
+anethum                 1.000 1971   60 1772
+antem                   1.000 1971  100 1528
+arantyr                 1.000 1971   30 2031
+arban                   1.000 1971   15 2219
+archgoat                1.000 1971   40 1911
+arglypuff               1.000 1971    5 2450
+arres                   1.000 1971   15 2219
+astrognomer             1.000 1971   55 1793
+atastypie               1.000 1971   45 1865
+aviak                   1.000 1971   35 1975
+badbadger               1.000 1971   35 1975
+beaver                  1.000 1971   70 1707
+blackwizard             1.000 1971   20 2156
+bleddest                1.000 1971   10 2324
+blisterpack             1.000 1971   70 1707
+bnkirby                 1.000 1971   20 2156
+bobson                  1.000 1971   30 2031
+boo                     1.000 1971   55 1793
+brockrock007            1.000 1971   25 2099
+brom                    1.000 1971   10 2324
+bubnilka                1.000 1971   30 2031
+buntry                  1.000 1971   75 1673
+burnthydra              1.000 1971   80 1644
+cactus                  1.000 1971   15 2219
+cal                     1.000 1971   40 1911
+canofbees               1.000 1971   25 2099
+cervance                1.000 1971   15 2219
+chaoticas               1.000 1971   55 1793
+chesslamb               1.000 1971   30 2031
+chizzley                1.000 1971   45 1865
+comreich                1.000 1971   50 1820
+cosh                    1.000 1971   40 1911
+cphibes                 1.000 1971   10 2324
+crag                    1.000 1971   30 2031
+crawlingchaos           1.000 1971   25 2099
+cthuko                  1.000 1971   20 2156
+cuddlefish              1.000 1971   35 1975
+dalord0                 1.000 1971   15 2219
+dashriprock             1.000 1971    5 2450
+dazliare                1.000 1971   30 2031
+derath95                1.000 1971   40 1911
+destrian                1.000 1971   65 1737
+didado                  1.000 1971   20 2156
+dreaming                1.000 1971   15 2219
+drynwhyl                1.000 1971   15 2219
+epictetus559            1.000 1971   75 1673
+extreminator            1.000 1971   50 1820
+falhoo                  1.000 1971   50 1820
+fireborn                1.000 1971   15 2219
+forly                   1.000 1971    5 2450
+frisp                   1.000 1971   30 2031
+fsat                    1.000 1971   30 2031
+fullest                 1.000 1971   15 2219
+gabygaby                1.000 1971   95 1556
+galan                   1.000 1971   40 1911
+garian                  1.000 1971   55 1793
+gataroth                1.000 1971   35 1975
+geeseburger             1.000 1971   65 1737
+genou                   1.000 1971   10 2324
+giavanni                1.000 1971   60 1772
+gidget                  1.000 1971   55 1793
+gorgoleon               1.000 1971    5 2450
+graywind                1.000 1971   30 2031
+grustny                 1.000 1971    5 2450
+guillysoulstar          1.000 1971   10 2324
+harmitage               1.000 1971   60 1772
+harvester               1.000 1971   20 2156
+hauke                   1.000 1971   25 2099
+hawkingl3623            1.000 1971   20 2156
+hawthornbunny           1.000 1971   55 1793
+hermite                 1.000 1971   10 2324
+hoogamagoo              1.000 1971   90 1582
+hookshot                1.000 1971   45 1865
+iasdfbui                1.000 1971   15 2219
+jawreze                 1.000 1971   70 1707
+jay                     1.000 1971   15 2219
+jefus                   1.000 1971   20 2156
+jehoesefat              1.000 1971   75 1673
+jiglerul                1.000 1971   40 1911
+jlc4533                 1.000 1971   35 1975
+joebear                 1.000 1971   35 1975
+johnnyslick74           1.000 1971    5 2450
+jumpythehat             1.000 1971   20 2156
+jwoodward48ss           1.000 1971   75 1673
+karian                  1.000 1971   20 2156
+kerbtree                1.000 1971   20 2156
+kerl                    1.000 1971   25 2099
+kevinv12000             1.000 1971   55 1793
+kingbuddyboy            1.000 1971   35 1975
+kraktruk                1.000 1971   25 2099
+lallenlowe              1.000 1971   10 2324
+lavron                  1.000 1971   30 2031
+lhg1003                 1.000 1971   30 2031
+lilicarose              1.000 1971   40 1911
+lionkun                 1.000 1971    5 2450
+locuples                1.000 1971   40 1911
+macktheknife            1.000 1971   10 2324
+madmonk                 1.000 1971   35 1975
+mango                   1.000 1971   65 1737
+mindlar                 1.000 1971   50 1820
+minkus                  1.000 1971   10 2324
+miro123                 1.000 1971   10 2324
+mndeal                  1.000 1971   35 1975
+modulartoil             1.000 1971   20 2156
+mongofromthecongo       1.000 1971   40 1911
+morbevis                1.000 1971   65 1737
+mrchuckles20            1.000 1971   40 1911
+mysteryquy              1.000 1971   45 1865
+mythocy                 1.000 1971   70 1707
+nabay                   1.000 1971   15 2219
+nagaseeker              1.000 1971   40 1911
+nethershadow            1.000 1971    5 2450
+notatowel               1.000 1971   40 1911
+nrok                    1.000 1971   30 2031
+numlockpick             1.000 1971   65 1737
+nymphicus               1.000 1971   15 2219
+oleandros               1.000 1971   30 2031
+om                      1.000 1971   40 1911
+omnyx                   1.000 1971   60 1772
+oppai                   1.000 1971   25 2099
+phantomfrettchen        1.000 1971   45 1865
+pikel                   1.000 1971   15 2219
+pkmx                    1.000 1971   65 1737
+possumblood             1.000 1971   40 1911
+prenthaom               1.000 1971   75 1673
+prokosch                1.000 1971   15 2219
+psycthewalrus           1.000 1971   25 2099
+qice                    1.000 1971   20 2156
+radpipe                 1.000 1971   60 1772
+ravini                  1.000 1971   20 2156
+reptilec                1.000 1971   35 1975
+retrocombine            1.000 1971   15 2219
+roguesci                1.000 1971   20 2156
+ruwin                   1.000 1971   55 1793
+rygusaur                1.000 1971   40 1911
+sacollins               1.000 1971   10 2324
+sakkata                 1.000 1971   20 2156
+sassnad                 1.000 1971   30 2031
+scavi                   1.000 1971   45 1865
+scud                    1.000 1971   50 1820
+sfr                     1.000 1971   65 1737
+shadowmastr             1.000 1971   10 2324
+shubniggurathsclit      1.000 1971   25 2099
+silvermoonie            1.000 1971   20 2156
+sirlyart                1.000 1971   40 1911
+skipper                 1.000 1971   85 1615
+slast                   1.000 1971   25 2099
+smajdalf11              1.000 1971   20 2156
+smedtjen                1.000 1971   75 1673
+smoothflow              1.000 1971   40 1911
+snackwell               1.000 1971   85 1615
+stormysan               1.000 1971   35 1975
+stral                   1.000 1971   20 2156
+th3stone                1.000 1971   20 2156
+thatotherguy            1.000 1971   30 2031
+thelastone              1.000 1971   30 2031
+themoken                1.000 1971   50 1820
+thephantommennas        1.000 1971   20 2156
+tiddytheef34            1.000 1971  100 1528
+tiocfaidh               1.000 1971   20 2156
+trurl                   1.000 1971   25 2099
+tutu                    1.000 1971   35 1975
+txmaccay                1.000 1971   10 2324
+ubername                1.000 1971   40 1911
+v77                     1.000 1971   30 2031
+veneficus               1.000 1971   45 1865
+videlicet               1.000 1971   25 2099
+viilla                  1.000 1971   70 1707
+vorshek                 1.000 1971   10 2324
+voxfini                 1.000 1971    5 2450
+waylon531               1.000 1971   90 1582
+wh1l                    1.000 1971    5 2450
+wildeengineer           1.000 1971   40 1911
+worldfamousw            1.000 1971   25 2099
+xboxut                  1.000 1971   25 2099
+yaboi                   1.000 1971    5 2450
+yahden                  1.000 1971   45 1865
+yakui                   1.000 1971   25 2099
+yutgfrweuigie           1.000 1971   40 1911
+zerkcies                1.000 1971   10 2324
+zerriz                  1.000 1971   30 2031
+zombofob                1.000 1971   40 1911
