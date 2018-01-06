@@ -1,73 +1,73 @@
 Achievement Score
-The Explorer I             1.369565
-The Explorer II           11.250000
-The Explorer III          63.000000
-The Heretic I             24.230769
+The Explorer I             1.311239
+The Explorer II            8.750000
+The Explorer III          50.555556
+The Heretic I             22.750000
 The Heretic II                  Inf
 The Heretic III                 Inf
-Slow and Steady I          3.214286
-Slow and Steady II        78.750000
+Slow and Steady I          2.630058
+Slow and Steady II        37.916667
 Slow and Steady III             Inf
-The Politician I           3.150000
-The Politician II         26.250000
-The Politician III        78.750000
-The Pious I                1.206897
-The Pious II             315.000000
+The Politician I           3.273381
+The Politician II         23.947368
+The Politician III        75.833333
+The Pious I                1.184896
+The Pious II             227.500000
 The Pious III                   Inf
-Nature's Ally I            7.682927
-Nature's Ally II          24.230769
-Nature's Ally III        315.000000
-Avarice I                  1.036184
-Avarice II                 3.888889
+Nature's Ally I            6.594203
+Nature's Ally II          22.750000
+Nature's Ally III        455.000000
+Avarice I                  1.050808
+Avarice II                 3.527132
 Avarice III                     Inf
-The Inheritor I           28.636364
-The Inheritor II         315.000000
-The Inheritor III        315.000000
-Gelatinous Body I         78.750000
+The Inheritor I           26.764706
+The Inheritor II          91.000000
+The Inheritor III        455.000000
+Gelatinous Body I         56.875000
 Gelatinous Body II              Inf
 Gelatinous Body III             Inf
-Lord of Darkness I         7.875000
+Lord of Darkness I         7.000000
 Lord of Darkness II             Inf
 Lord of Darkness III            Inf
-Spiteful I                52.500000
+Spiteful I                37.916667
 Spiteful II                     Inf
 Spiteful III                    Inf
-Speed Demon I              3.620690
-Speed Demon II             3.750000
-Speed Demon III           11.250000
-Nemelex' Choice I          9.545455
-Nemelex' Choice II        35.000000
-Nemelex' Choice III       78.750000
+Speed Demon I              4.136364
+Speed Demon II             4.292453
+Speed Demon III           11.666667
+Nemelex' Choice I          9.285714
+Nemelex' Choice II        21.666667
+Nemelex' Choice III       56.875000
 The Conqueror I            1.000000
-The Conqueror II           5.431034
-The Conqueror III         22.500000
-The Prophet I             21.000000
+The Conqueror II           4.840426
+The Conqueror III         28.437500
+The Prophet I             20.681818
 The Prophet II            35.000000
 The Prophet III                 Inf
-The Ascetic I              3.181818
-The Ascetic II            52.500000
-The Ascetic III           78.750000
-The Lorekeeper I           7.000000
+The Ascetic I              3.250000
+The Ascetic II            50.555556
+The Ascetic III           65.000000
+The Lorekeeper I           6.066667
 The Lorekeeper II               Inf
 The Lorekeeper III              Inf
-Vow of Courage I           1.280488
+Vow of Courage I           1.281690
 Vow of Courage II         35.000000
-Vow of Courage III       105.000000
-Brute Force I            315.000000
-Brute Force II                  Inf
-Brute Force III                 Inf
-Graceful I                 3.539326
+Vow of Courage III        91.000000
+Brute Force I            227.500000
+Brute Force II           455.000000
+Brute Force III          455.000000
+Graceful I                 3.791667
 Graceful II                     Inf
 Graceful III                    Inf
-Ruthless Efficiency I    105.000000
-Ruthless Efficiency II   315.000000
+Ruthless Efficiency I    151.666667
+Ruthless Efficiency II   455.000000
 Ruthless Efficiency III         Inf
-Descent into Madness I     3.118812
-Descent into Madness II   63.000000
-Descent into Madness III 157.500000
-The Harvest I              8.289474
-The Harvest II           157.500000
+Descent into Madness I     2.843750
+Descent into Madness II   41.363636
+Descent into Madness III 227.500000
+The Harvest I              6.319444
+The Harvest II            50.555556
 The Harvest III                 Inf
-Angel of Justice I        15.000000
-Angel of Justice II       18.529412
-Angel of Justice III      28.636364
+Angel of Justice I        14.218750
+Angel of Justice II       18.958333
+Angel of Justice III      30.333333
