@@ -1,7 +1,7 @@
 # dcss-banner-rankings
-R code to calculate banner-based player rankings for DCSS 0.20 tournament
+R code to calculate banner-based player rankings for DCSS tournaments
 
-This is intended as an alternate method of calculating player rankings for the online Dungeon Crawl Stone Soup 0.20 release tournament.  This method uses the banners that players can earn for achievements as a basis for scoring instead of the tournament's actual scoring method.
+This is intended as an alternate method of calculating player rankings for the online Dungeon Crawl Stone Soup release tournaments.  This method uses the banners that players can earn for achievements as a basis for scoring instead of the tournament's actual scoring method.
 
 First, count how many players earned each banner or a higher banner in the same category.  For example, if 100 players earn Ascetic I, 50 players earn Ascetic II, and 10 players earn Ascetic III, then the scoring method would count 160 (100+50+10) players as having earned Ascetic I, 60 (50+10) players as having earned Ascetic II, and 10 players as having earned Ascetic III.  By this method, figure out which out of the 72 banners in the tournament has the most players.  In the 0.20 tournament, this is Vow of Courage I, as 1765 players earned Vow of Courage I (1625), II (102), or III (38).
 
