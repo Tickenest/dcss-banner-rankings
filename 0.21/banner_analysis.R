@@ -171,7 +171,8 @@ for (i in 2:ncol(players)) {
 #Get the number of players who got the most popular banner
 numer <- 0
 for (i in 1:(length(colCounts)/3)) {
-    if (sum(colCounts[(3*i-2):(3*i)]) > numer) {numer <- sum(colCounts[(3*i):(3*i+2)])}
+    print(sum(colCounts[(3*i-2):(3*i)]))
+    if (sum(colCounts[(3*i-2):(3*i)]) > numer) {numer <- sum(colCounts[(3*i-2):(3*i)])}
 }
 #numer <- max(colCounts)
 #Calculate the column scores for each column
