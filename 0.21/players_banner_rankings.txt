@@ -1,4 +1,4 @@
-Name Score Rank T.Score T.Rank
+Name 			Score Rank T.Score T.Rank
 stickyfingers        3859.186    1 4038   20
 yermak               3018.385    2 7633    1
 bagonaho             2548.564    3 3098   47
