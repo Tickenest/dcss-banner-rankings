@@ -294,37 +294,176 @@ players <- merge(players, pScoresDF, all.x=TRUE)
 players <- players[order(players$Rank),]
 
 #Write the final output table, both ranking info and all the banner info
-write.fwf(players[,c(1,2,3,ncol(players)-1,ncol(players))], file="players_banner_rankings.txt")
+write.fwf(players[,c(1,2,3,ncol(players)-1,ncol(players))], file="players_banner_rankings.txt",
+          sep="      ")
 write.csv(players, "players_banner_rankings.csv", row.names=FALSE)
 #write.csv(players, file="clipboard-16384", row.names=FALSE)
 
 ########################################
-#The calculation here determines the number of players who earned a banner by
-#EXACTLY the number of players who earned the banner.  This means that a level
-#II banner with fewer players is actually worth MORE than the level III banner
-#with more players in the same group.  This doesn't really seem to make sense,
-#and so this probably isn't the correct calculation to make.  Anyway, here's
-#the code in case you want to do this particular calculation.
+#Now calculate clan banner rankings.  A clan will get credit for the highest
+#level of each banner that any player in the clan has achieved.  No extra
+#credit for more than one player in a clan getting the same banner and level.
 
-# #Get the number of players who got the most popular banner
-# numer <- max(colSums(players[2:73]))
-# #Now divide numer by the number of players who get each particular banner to
-# #calculate the points for each banner
-# colScores <- numer/colSums(players[2:73])
-# 
-# #Function to determine the total score for one player in the players dataframe
-# getScore <- function(pName) {
-#     #Get the banner TRUE-FALSE values for player pName, then transpose it so
-#     #that R doesn't treat the scores as a single vector, then subset colScores
-#     #by that vector.  This will filter out all of the colScores for the columns
-#     #that the player didn't earn.  Finally, add up the sum of those scores for
-#     #the good columns to get the player's final score, and return that score.
-#     return (sum(colScores[as.logical(t(players[players$Name == pName,2:73]))]))
-# }
-# 
-# #Calculate each player's banner score
-# players$Score <- sapply(players$Name, getScore)
-# 
-# #Now sort the rows by player score, and then assign each player their final rank
-# players <- players[order(players$Score, decreasing=TRUE),]
-# players$Rank <- 1:nrow(players)
+#Get the page for all the clan members from the tournament.  Only run this
+#line of code once per session (no need to hammer the server repeatedly.)
+clans <- paste(readLines('http://dobrazupa.org/tournament/0.21/teams.html'),collapse='')
+
+#Data frame to hold the information about each clan
+cScoresDF <- data.frame(Name=character(), T.Score=integer(), T.Rank=integer(),
+                        p1=character(), p2=character(), p3=character(),
+                        p4=character(), p5=character(), p6=character(),
+                        Score=numeric(), Rank=integer(),
+                        stringsAsFactors=FALSE)
+
+#Now loop through the scores text, pulling out each clan's name and their
+#score for the tournament
+while (TRUE) {
+    
+    #Get the start of a chunk of text that contains the clan's name
+    cStart <- regexpr("<tr class=", clans, fixed=TRUE)[1]
+    
+    #If "<tr class=" wasn't found in the remaining text, then we're done
+    #processing clans
+    if (cStart == -1){break}
+    
+    #Get the end of a chunk of text that contains the clan's info
+    cEnd <- regexpr("</tr>", substr(clans, cStart, nchar(clans)), fixed=TRUE)[1]
+    
+    #Hold on to the number of characters to advance after we process the
+    #current clan
+    advance <- cStart+cEnd
+    
+    #Extract the clan info line from the HTML
+    cText <- substr(clans, cStart, advance)
+    
+    #Find the first number, which will be the clan's rank
+    cRankStart <- gregexpr('<td class="numeric">', cText, fixed=TRUE)[[1]][1]
+    
+    #Find the end of the rank
+    cRankEnd <- gregexpr("</td>", cText, fixed=TRUE)[[1]][1]
+    
+    #Now extract the actual rank
+    cRank <- as.integer(substr(cText, cRankStart+20, cRankEnd-1))
+    
+    #Now make a new row for the current clan and add its rank
+    cScoresDF[nrow(cScoresDF)+1, 3] <- cRank
+    
+    #Find the second number, which will be the clan's score
+    cScoreStart <- gregexpr('<td class="numeric">', cText, fixed=TRUE)[[1]][2]
+    
+    #Find the end of the score
+    cScoreEnd <- gregexpr("</td>", cText, fixed=TRUE)[[1]][2]
+    
+    #Now extract the actual score
+    cScore <- as.integer(substr(cText, cScoreStart+20, cScoreEnd-1))
+    
+    #Now add the current clan's score to its row
+    cScoresDF[nrow(cScoresDF), 2] <- cScore
+    
+    #Now extract the text that holds the clan name and the player names
+    cInfo <- gregexpr('<a href=(\\s|\\S)*?</a>', cText)
+    
+    #The first entry is for the clan's name.  Every other entry is for a player.
+    cNameInfo <- substr(cText, cInfo[[1]][1],
+                        cInfo[[1]][1] + attr(cInfo[[1]],"match.length")[1])
+    
+    #Extract the name of the clan
+    cNameStart <- regexpr('">', cNameInfo)[1] + 2
+    cNameEnd   <- regexpr('</a', cNameInfo)[1] - 1
+    cName      <- substr(cNameInfo, cNameStart, cNameEnd)
+    
+    #Make a new row in the dataframe and add the clan name to it
+    cScoresDF[nrow(cScoresDF), 1] <- cName
+    
+    #Now get the name of every player in the clan
+    for (i in 2:length(cInfo[[1]])) {
+        
+        #Extract the current player's info from cText
+        cPNameInfo <- substr(cText, cInfo[[1]][i],
+                             cInfo[[1]][i] + attr(cInfo[[1]],"match.length")[i])
+        
+        #Extract the name of the player.  Because a few players use the same
+        #name but different capitalizations on different servers, convert all
+        #names to all lowercase.
+        cPNameStart <- regexpr('">', cPNameInfo)[1] + 2
+        cPNameEnd   <- regexpr('</a', cPNameInfo)[1] - 1
+        cPName      <- tolower(substr(cPNameInfo, cPNameStart, cPNameEnd))
+        
+        #Add the current player's name to his clan's dataframe row
+        cScoresDF[nrow(cScoresDF), i+2] <- cPName
+        
+        #If this is the first player in the clan (the captain), add that
+        #player's name to the end of the clan name.  This serves to distinguish
+        #different clans using the same name (which is apparently allowed)
+        if (i == 2) {
+            cScoresDF[nrow(cScoresDF), 1] <- 
+                paste0(cScoresDF[nrow(cScoresDF), 1], " (", cPName, ")")
+        }
+    }
+    
+    #Now remove the current clan from the HTML text that we're processing,
+    #then start the loop over with the remaining HTML text.
+    clans <- substr(clans, advance, nchar(clans))
+}
+
+#Now consolidate all of the banners for each clan.  Take the highest level
+#banner that anyone in the clan has achieved, and then score the clan as if
+#it were a person.
+
+#Add a column for each banner to cScoresDF.
+for (i in cols) {
+    cScoresDF[, i] <- character()
+}
+
+#Start by subsetting the player banner information we've already created.
+#We don't need the scoring columns, just the name and banner columns.
+pBanners <- players[,c(1,4:75)]
+
+#For each clan, create a dataframe of just the banners of the players in the
+#clan.  Then consolidate those banners as described above.  Finally, score the
+#clan.
+for (i in 1:nrow(cScoresDF)) {
+    
+    #Start by making a vector of the players in the clan.  Any clans that don't
+    #have the maximum numbers of players will have NA entries at the end of
+    #this vector, which will wind up being harmless.
+    cPlayers <- as.character(cScoresDF[i,4:9])
+    
+    #Subset pBanners based upon the names in cPlayers
+    cBanners <- pBanners[pBanners$Name %in% cPlayers,2:ncol(pBanners)]
+    
+    #Make a new row at the bottom of the dataframe that will hold the
+    #consolidated info.  Make all of the entries blank strings to start.
+    cBanners[nrow(cBanners)+1,1:72] <- ""
+    
+    #For each set of 3 columns representing one banner group, find the latest
+    #column in the group that contains at least one "X"
+    for (j in 1:(ncol(cBanners)/3)) {
+        
+        if (any(cBanners[3*j] != "")) {
+            cBanners[nrow(cBanners),3*j] <- "X"
+            next
+        } else if (any(cBanners[3*j-1] != "")) {
+            cBanners[nrow(cBanners),3*j-1] <- "X"
+            next 
+        } else if (any(cBanners[3*j-2] != "")) {
+            cBanners[nrow(cBanners),3*j-2] <- "X"
+        }
+    }
+    
+    #Now calculate the current clan's score based upon the banner scores
+    cBannerVec <- t(cBanners[nrow(cBanners),1:72])
+    cScoresDF$Score[i] <- sum(colScores[ifelse(cBannerVec == "", FALSE, TRUE)])
+    
+    #Assign the final banner information to the correct columns in cScoresDF
+    cScoresDF[i,12:ncol(cScoresDF)] <- cBannerVec
+}
+
+#Now reorder the rows by clan banner score, assign the clan banner rankings,
+#reorder the columns a bit, and write the output
+cScoresDF <- cScoresDF[order(cScoresDF$Score, decreasing=TRUE),]
+cScoresDF$Rank <- rank(-cScoresDF$Score, ties.method="min")
+cScoresDF <- cScoresDF[c(1,10,11,2:9,12:ncol(cScoresDF))]
+
+write.fwf(cScoresDF[,1:11], file="clans_banner_rankings.txt", sep="      ")
+write.csv(cScoresDF, "clans_banner_rankings.csv", row.names=FALSE)
