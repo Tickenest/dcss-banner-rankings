@@ -310,8 +310,8 @@ clans <- paste(readLines('http://dobrazupa.org/tournament/0.21/teams.html'),coll
 
 #Data frame to hold the information about each clan
 cScoresDF <- data.frame(Name=character(), T.Score=integer(), T.Rank=integer(),
-                        p1=character(), p2=character(), p3=character(),
-                        p4=character(), p5=character(), p6=character(),
+                        player1=character(), player2=character(), player3=character(),
+                        player4=character(), player5=character(), player6=character(),
                         Score=numeric(), Rank=integer(),
                         stringsAsFactors=FALSE)
 
