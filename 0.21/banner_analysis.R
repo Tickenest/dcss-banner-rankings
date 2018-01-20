@@ -460,10 +460,11 @@ for (i in 1:nrow(cScoresDF)) {
 }
 
 #Now reorder the rows by clan banner score, assign the clan banner rankings,
-#reorder the columns a bit, and write the output
+#reorder the columns a bit, round the clan scores, and write the output
 cScoresDF <- cScoresDF[order(cScoresDF$Score, decreasing=TRUE),]
 cScoresDF$Rank <- rank(-cScoresDF$Score, ties.method="min")
 cScoresDF <- cScoresDF[c(1,10,11,2:9,12:ncol(cScoresDF))]
+cScoresDF$Score <- round(cScoresDF$Score,3)
 
 write.fwf(cScoresDF[,1:11], file="clans_banner_rankings.txt", sep="      ")
 write.csv(cScoresDF, "clans_banner_rankings.csv", row.names=FALSE)
