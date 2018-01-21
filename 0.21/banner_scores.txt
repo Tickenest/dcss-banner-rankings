@@ -1,73 +1,73 @@
 Achievement                   Score
-The Explorer I             1.694094
-The Explorer II            4.334465
-The Explorer III          14.262570
-The Heretic I             10.682008
-The Heretic II           283.666667
+The Explorer I             1.694960
+The Explorer II            4.332203
+The Explorer III          14.279330
+The Heretic I             10.650000
+The Heretic II           284.000000
 The Heretic III                 Inf
-Slow and Steady I          1.774149
-Slow and Steady II        14.929825
-Slow and Steady III       62.268293
-The Politician I           4.625000
-The Politician II         15.196429
-The Politician III        62.268293
-The Pious I                1.640746
-The Pious II               8.538462
-The Pious III            121.571429
-Nature's Ally I            4.212871
-Nature's Ally II          10.336032
-Nature's Ally III        106.375000
-Avarice I                  1.468085
-Avarice II                 3.199248
-Avarice III              159.562500
-The Inheritor I           14.183333
-The Inheritor II          32.730769
-The Inheritor III         77.363636
-Gelatinous Body I          5.199593
-Gelatinous Body II        14.929825
-Gelatinous Body III       26.051020
-Lord of Darkness I         5.045455
-Lord of Darkness II      150.176471
-Lord of Darkness III     255.300000
-Spiteful I                18.235714
-Spiteful II              319.125000
-Spiteful III             510.600000
-Speed Demon I              6.463291
-Speed Demon II             6.789894
-Speed Demon III           21.635593
-Nemelex' Choice I          9.670455
-Nemelex' Choice II        18.366906
-Nemelex' Choice III       29.344828
-The Conqueror I            1.464716
-The Conqueror II           4.349233
-The Conqueror III         34.500000
-The Prophet I             11.448430
-The Prophet II            17.134228
-The Prophet III          116.045455
-The Ascetic I              3.098301
-The Ascetic II            44.017241
-The Ascetic III           82.354839
-The Lorekeeper I           3.862330
-The Lorekeeper II         88.034483
-The Lorekeeper III       638.250000
-Vow of Courage I           1.362327
-Vow of Courage II         19.052239
-Vow of Courage III        62.268293
-Brute Force I             32.730769
-Brute Force II           121.571429
-Brute Force III          510.600000
-Graceful I                 2.827243
-Graceful II              425.500000
-Graceful III             510.600000
-Ruthless Efficiency I     41.177419
-Ruthless Efficiency II   159.562500
-Ruthless Efficiency III  851.000000
-Descent into Madness I     2.289686
-Descent into Madness II   12.893939
-Descent into Madness III  50.058824
-The Harvest I              2.662148
-The Harvest II             5.896074
-The Harvest III           38.104478
-Angel of Justice I         6.334988
-Angel of Justice II        9.283636
-Angel of Justice III      12.157143
+Slow and Steady I          1.773768
+Slow and Steady II        14.860465
+Slow and Steady III       60.857143
+The Politician I           4.622061
+The Politician II         15.214286
+The Politician III        62.341463
+The Pious I                1.640565
+The Pious II               8.548495
+The Pious III            121.714286
+Nature's Ally I            4.210873
+Nature's Ally II          10.348178
+Nature's Ally III        102.240000
+Avarice I                  1.468122
+Avarice II                 3.198999
+Avarice III              159.750000
+The Inheritor I           14.200000
+The Inheritor II          32.769231
+The Inheritor III         77.454545
+Gelatinous Body I          5.184584
+Gelatinous Body II        14.860465
+Gelatinous Body III       25.818182
+Lord of Darkness I         5.041420
+Lord of Darkness II      150.352941
+Lord of Darkness III     255.600000
+Spiteful I                18.257143
+Spiteful II              319.500000
+Spiteful III             511.200000
+Speed Demon I              6.438287
+Speed Demon II             6.797872
+Speed Demon III           21.478992
+Nemelex' Choice I          9.681818
+Nemelex' Choice II        18.388489
+Nemelex' Choice III       29.045455
+The Conqueror I            1.464756
+The Conqueror II           4.354344
+The Conqueror III         34.080000
+The Prophet I             11.461883
+The Prophet II            17.154362
+The Prophet III          116.181818
+The Ascetic I              3.094431
+The Ascetic II            43.322034
+The Ascetic III           79.875000
+The Lorekeeper I           3.861027
+The Lorekeeper II         88.137931
+The Lorekeeper III       639.000000
+Vow of Courage I           1.362473
+Vow of Courage II         19.074627
+Vow of Courage III        62.341463
+Brute Force I             32.769231
+Brute Force II           121.714286
+Brute Force III          511.200000
+Graceful I                 2.827434
+Graceful II              426.000000
+Graceful III             426.000000
+Ruthless Efficiency I     41.225806
+Ruthless Efficiency II   159.750000
+Ruthless Efficiency III  852.000000
+Descent into Madness I     2.288272
+Descent into Madness II   12.909091
+Descent into Madness III  50.117647
+The Harvest I              2.662500
+The Harvest II             5.848970
+The Harvest III           38.149254
+Angel of Justice I         6.311111
+Angel of Justice II        9.227437
+Angel of Justice III      12.171429
